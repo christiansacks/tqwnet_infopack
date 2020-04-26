@@ -1,0 +1,19 @@
+% ========================================================================
+%  tqwNet Fileecho List                                      Sept 17 2018
+% ========================================================================
+%
+% ------------------------------------------------------------------------
+% File Echo                   Description
+% ------------------------------------------------------------------------
+%
+%
+Area TQW_NODE		0	!	Weekly Nodelists
+Area TQW_INFO		0	!	Weekly Infopacks
+Area TQW_DEMOS		0	!	Demoscene
+Area TQW_EBOOKS		0	!	eBooks
+Area TQW_MYSBBS		0	!	Mystic BBS Software
+Area TQW_MYSUTILS	0	!	Mystic BBS Utils/Doors/Games/etc
+Area TQW_TEST		0	!	Testing only
+Area TQW_LINUXFILES	0	!	Linux files
+%
+% End of tqwNet Fileecho List

@@ -1,0 +1,142 @@
+================================================================================
+
+tqwNet - The Quantum Wormhole - Time is an illusion here, there and everywhen
+
+                               (Zone 1337)
+ 
+==== Introducing tqwNet =========================== UPDATED = 2019-03-16 =======
+	
+
+===== Goals ====================================================================
+
+* Develop and encourage international communications between 100 (or more)
+  geographically diverse bulletin board systems.
+
+* Support and create learning and experimental opportunities between
+  members.
+
+* Foster borderless international friendships.
+
+* Explore and develop new and interesting methods of online communication
+  between members.
+  
+* A network based on having fun, while being respectful and helpful to each
+  other.
+
+===== Housekeeping =============================================================
+
+* Members of tqwNet are to conduct themselves in accordance with the above
+  goals. Failure to do so risks being delisted by the Network Coordinator.
+
+* The use of the network for illegal purposes is not permitted. Members
+  deemed to be engaged in such activities will be delisted by the Network
+  Coordinator.
+
+* Real names used in the nodelist, aliases or real names welcome in
+  all echoareas.
+
+* Please post messages containing ANSI but do so with an [ANSI] prefix in
+  the message subject line. This allows members who can't view ANSI content
+  to opt out of reading it if they are unable to do so.
+  
+  e.g. Subject: [ANSI] Something I drew last night
+
+===== Echoareas ================================================================
+
+Message Echos:
+
+TQW_ADS			- BBS Adverts
+TQW_DOCKER		- Docker Chat
+TQW_BBSGEN		- General BBS Chat
+TQW_GEN			- General Chat
+TQW_GENSCI		- General Science News
+TQW_LINUX		- Linux
+TQW_MACOSX		- Mac OS X
+TQW_MBSE		- MBSE BBS Chat
+TQW_MYS			- Mystic BBS Chat
+TQW_MDEV		- Mystic BBS Development
+TQW_PYTHON		- Python General Chat
+TQW_RASPBPI		- Raspberry Pi
+TQW_BOT			- roBOT output
+TQW_SUG			- Suggestions Box
+TQW_SYNCHRO		- Synchronet BBS Chat
+TQW_TEST		- Test Echo
+
+         
+File Bases:
+
+TQW_DEMOS		- Demoscene
+TQW_EBOOKS		- eBooks
+TQW_LINUXFILES		- Linux files
+TQW_MYSBBS		- Mystic BBS Software
+TQW_MYSUTILS		- Mystic BBS Utils/Doors/Games/et
+TQW_TEST        	- Testing only
+TQW_INFO        	- Weekly Infopacks
+TQW_NODE        	- Weekly Nodelists
+
+
+===== Technical Details ========================================================
+
+**** IMPORTANT - PLEASE NOTE ****
+
+The tqwNet UK HUB (1337:1/100) accepts BinkD connections via hub.uk.erb.pw:24556 
+The tqwNet AU HUB (1337:2/100) accepts BinkD connections via hub.au.erb.pw:24554 
+The tqwNet CA HUB (1337:3/100) accepts BinkD connections via hub.ca.erb.pw:24554 
+
+If you are running Mystic BBS please add the IP address for the relevant hub to
+the GOODIP.TXT and WHITELIST.TXT files in your Mystic BBS data directory 
+
+If these files do not exist you just need to create them. Taking these steps
+ensure that if the tqwNet HUB polls your system it will not be auto blocked
+by your Mystic Internet Server if it polls your system very frequently.
+ 		   
+===== Membership ===============================================================
+
+Joining is easy, to obtain a node number just complete the application form
+below then either email it to ml@erb.pw or send it as Fidonet Netmail
+to Christian Sacks (2:250/5) at bbs.erb.pw:24554
+
+For anything that's not applicable below, please state "NA".
+Thanks for your interest.
+
+An infopack is always available from www.erb.pw/tqwinfo.zip or alternatively
+The Quantum Wormhole BBS.
+
+--------------Delete the above and send the application below-------------------
+
+
+                         tqwNet Network - Application
+
+    Name................:
+    Location............:
+    BBS / System Name...:
+    BBS Software........:
+    Operating System....:
+    Telnet address......:
+    Website URL.........:
+    Email Address.......:
+    Mail tosser.........:
+    Areafix Password....:
+    Filefix Password....:
+
+Do you have a static IP address? If you do, please state your IP details below.
+This will ensure your node is whitelisted so it will not be auto-blocked by
+the tqwNet HUB due to any frequent polling (3-4 times in 1 minute) by your
+BBS.
+
+    Static IPv4 Address.:
+    Static IPv6 Address.:
+     
+If you don't run a BBS, please state a system name you will be known by.
+
+Your BinkP details
+
+        BinkP
+
+        Session Password:
+        Binkp address...:
+	Crash or Hold...:
+
+        
+===== END OF APPLICATION =======================================================
+		

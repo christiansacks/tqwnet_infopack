@@ -1,0 +1,43 @@
+
+             --- tqwNet connected Systems as of 08/08/2019 ---
+
+
+==================================================================================
+Node BBS Name				Sysop			Address    
+==================================================================================
+
+NET 1 (1337:1/xxx)
+
+100 tqwNet UK HUB			Christian Sacks		hub.uk.erb.pw:24556
+101 The Quantum Wormhole		Christian Sacks		bbs.erb.pw
+102 Kuehlbox				Philipp Giebel		kuehlbox.wtf
+
+
+NET 2 (1337:2/xxx)
+
+100 tqwNet AU HUB			Deon George		hub.au.erb.pw:24554
+101 Chinwag				Deon George		chinwag.leenooks.net:10023
+102 Happyland				Andrew Pamment		happyland.magickabbs.com:2023
+103 Freeway BBS				Tony Langdon		freeway.vkradio.com
+
+
+NET 3 (1337:3/xxx)
+
+100 tqwNet CA HUB			Christian Sacks		hub.ca.erb.pw:24554
+101 The Rusty Mail Box			Alan Ianson		trmb.synchro.net
+102 The Wrong Number ][			Al DeRosa		wn2.duckdns.org
+103 Capitol City Online			Mike Powell		capitolcityonline.net
+104 CIA Amiga BBS			Tim Grooms		ciaamigabbs.dynu.net
+105 Battlestar_BBS			Mark Iezzi		battlestarbbs.dyndns.org
+106 The Bottomless Abyss BBS		Dave_Cloutier		bbs.bottomlessabyss.net
+107 Necronomicon BBS			Carlos Roldan		necrobbs.strangled.net
+108 LostCause Halfway House BBS		Ernest J Gainey III	bbs.lostcause.house
+109 The Fishingnet BBS			Matthew Smith		fishingnet.phatstar.org:7777
+110 t3llnet				Rex Gibson		t3llnet.ddns.net
+111 Castle Rock BBS			Dan Richter		bbs.castlerockbbs.com
+112 Mystic Island BBS			Mickey Frklic		mysticisland.strangled.net
+113 Raiders Inc BBS			Jon Justvig		vintagebbsing.com
+114 Central HeadQuarters BBS		Matthew Anderson	chq.ddns.net:2023
+115 Freeside BBS			Marty Taylor		freeside.bbs.io
+
+==================================================================================

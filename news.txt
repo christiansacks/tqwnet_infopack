@@ -1,0 +1,42 @@
+.---------------------.
+|   Network notices   |
+'---------------------'
+
+A new HUB has been added at 1337:1/100.
+A new HUB has been added at 1337:2/100.
+A new HUB has been added at 1337:3/100.
+Consult your nodelist for the latest details.
+
+.---------------------.
+|   System Changes    |
+'---------------------'
+
+Happyland changed to Nocturnal at 1337:2/102
+
+
+
+.---------------------.
+|     New Systems     |
+'---------------------'
+
+Welcome to 
+Al from The Rusty MailBox				@ 1337:3/101
+Deon from Chinwag					@ 1337:2/101
+Al from The Wrong Number ][				@ 1337:3/102
+Mike from Capitol City Online				@ 1337:3/103
+Tim from CIA Amiga BBS					@ 1337:3/104
+Mark from Battlestar BBS				@ 1337:3/105
+Andrew from The Fat Sandwich				@ 1337:2/102
+Dave from The Bottomless Abyss BBS			@ 1337:3/106
+Carlos from Necronomicon BBS				@ 1337:3/107
+Tony Langdon from Freeway BBS				@ 1337:2/103
+Ernest J Gainey III from LostCause Halfway House BBS	@ 1337:3/108
+Matthew Smith from The Fishingnet BBS			@ 1337:3/109
+Philipp Giebel from Kuehlbox				@ 1337:1/102
+Rex Gibson from t3llnet					@ 1337:3/110
+Dan Richter from Castle Rock BBS			@ 1337:3/111
+Mickey Frklic from Mystic Island BBS			@ 1337:3/112
+Jon Justvig from Raiders Inc BBS			@ 1337:3/113
+Matthew Anderson from Centra HeadQuarters BBS		@ 1337:3/114
+Marty Taylor from Freeside BBS				@ 1337:3/115
+

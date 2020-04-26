@@ -1,0 +1,85 @@
+			
+                       ==== History of tqwNet ====
+			 
+tqwNet is a new network, with the aim to bring both new people to the BBS scene
+or veteran BBSers equally a fun and developmental network. The idea is to learn
+about networking, developing applications with code in various forms, and overall
+to have fun and make new friends.
+
+This document contains a full rolling log of changes made to tqwNet.
+ 
+It is saved as history.txt and ships as part of the weekly infopack hatched
+out to all tqwNet nodes. If you spot anything amiss please contact
+Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
+
+== ChangeLog =====================================================================================
+
+>> Further history to be added as time permits <<
+2019-08-08
+Added	- Node 3/115 - Freeside BBS			(US) - Welcome to Marty Taylor :)
+
+2019-07-30
+Added	- Node 3/114 - Central HeadQuarters BBS		(US) - Welcome Matthew Anderson :)
+Changed	- Node 2/102 - FROM: Happyland			(AU) - TO: Nocturnal (AU)
+
+2019-06-18
+Added	- Node 3/113 - Raiders Inc BBS			(US) - Welcome Jon Justvig :)
+
+2019-06-09
+Changed	- Node 2/102 - FROM: The Fat Sandwich		(AU) - TO: Happyland (AU)
+
+2019-06-07
+Added	- Node 3/112 - Mystic Island BBS		(US) - Welcome Mickey Frklic :)
+
+2019-06-01
+Added	- Node 3/111 - Castle Rock BBS			(US) - Welcome Dan Richter :)
+
+2019-05-23
+Added	- Node 3/110 - t3llnet				(CA) - Welcome Rex Gibson :)
+
+2019-05-21
+Added	- Node 1/102 - Kuehlbox				(DE) - Welcome/Willkommen Philipp Giebel :)
+
+2019-05-19
+Added	- Node 3/109 - The Fishingnet BBS		(CA) - Welcome Matthew Smith :)
+
+2019-05-18
+Added	- Node 3/108 - LostCause Halfway House BBS	(US) - Welcome Ernest J Gainey III :)
+
+2019-03-16
+Added	- Node 2/103 - Freeway BBS			(AU) - Welcome Tony Langdon :)
+
+2019-02-27
+Added 	- Node 3/107 - Necronomicon BBS 		(US) - Welcome Carlos Roldan :)
+
+2018-11-16
+Added   - Node 3/106 - The Bottomless Abyss BBS		(CA) - Welcome Dave Cloutier :)
+
+2018-11-07
+Added   - Node 2/102 - The Fat Sandwich			(AU) - Welcome Andrew Pamment :)
+
+2018-09-30
+Added   - Node 3/105 - Battlestar BBS			(US) - Welcome Mark Iezzi :)
+
+2018-09-26
+Added   - Node 3/104 - CIA Amiga BBS			(US) - Welcome Tim Grooms :)
+
+2018-09-21
+Added   - Node 3/103 - Capitol City Online		(US) - Welcome Mike Powell :)
+
+2018-09-20
+Added   - Node 3/102 - The Wrong Number ][		(US) - Welcome Al DeRosa! :)
+Changed - Node 3/101 - The Rusty Mail Box		(CA) - Node change for new region, was 1337:1/102
+
+2018-09-17
+Added   - Node 3/100 - tqwNet HUB			(CA) - Hosted by Alan Ianson
+
+2018-09-15
+Added   - Node 2/101 - Chinwag				(AU) - Welcome Deon George! :)
+Added   - Node 2/100 - tqwNet HUB			(AU) - Hosted by Deon George
+
+2018-08-26
+Added   - Node 1/102 - The Rusty Mail Box   		(CA) - Welcome Alan Ianson! :)
+Added   - Node 1/101 - The Quantum Wormhole		(UK)
+Added   - Node 1/100 - tqwNet HUB			(UK) - tqwNet is born using Zone 1337!
+==================================================================================================
