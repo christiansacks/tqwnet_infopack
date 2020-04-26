@@ -94,13 +94,14 @@ by your Mystic Internet Server if it polls your system very frequently.
 
 Joining is easy, to obtain a node number just complete the application form
 below then either email it to ml@erb.pw or send it as Fidonet Netmail
-to Christian Sacks (2:250/5) at bbs.erb.pw:24554
+to Christian Sacks (2:250/5) at bbs.erb.pw:24554. You can also fill in the web
+form located at https://www.erb.pw/node-request/ if you prefer.
 
 For anything that's not applicable below, please state "NA".
 Thanks for your interest.
 
 An infopack is always available from www.erb.pw/tqwinfo.zip or alternatively
-The Quantum Wormhole BBS.
+The Quantum Wormhole BBS via telnet to bbs.erb.pw
 
 --------------Delete the above and send the application below-------------------
 

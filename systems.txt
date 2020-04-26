@@ -1,5 +1,5 @@
 
-             --- tqwNet connected Systems as of 08/08/2019 ---
+             --- tqwNet connected Systems as of 2020-04-26 ---
 
 
 ==================================================================================
@@ -11,6 +11,8 @@ NET 1 (1337:1/xxx)
 100 tqwNet UK HUB			Christian Sacks		hub.uk.erb.pw:24556
 101 The Quantum Wormhole		Christian Sacks		bbs.erb.pw
 102 Kuehlbox				Philipp Giebel		kuehlbox.wtf
+103 HB3NOS				Henk Blanken		62.238.86.72
+201 dYslExIc dOnkEy			Christian Sacks		dydo.erb.pw:1337
 
 
 NET 2 (1337:2/xxx)
@@ -39,5 +41,14 @@ NET 3 (1337:3/xxx)
 113 Raiders Inc BBS			Jon Justvig		vintagebbsing.com
 114 Central HeadQuarters BBS		Matthew Anderson	chq.ddns.net:2023
 115 Freeside BBS			Marty Taylor		freeside.bbs.io
+116 V'Ger_BBS				Bradley_Thornton	vger.cloud
+117 Insane_Asylum			Ktulu			* Private *
+118 Stellar_Darkness			Mike_Da_Costa		stellardarkness.com:2023
+119 Deadbeatz_BBS			Timothy_Blada		deadbeatz.org
+120 ark_Matter_BBS			Will_Milberger		darkmatt.synchro.net
+121 SpaceSST_BBS			Luc_McCarragher		mccarragher.org
+122 Dreambuilders			Hauns_Froehlingsdorf	dreambuilders.fros.com:6800
+123 Card_&_Claw				Robbie_Whiting		cardandclaw.com:8888
+124 retrocomputacion			Thierry_Olmedo		* Private *
+125 Physics				Jesse_Cussins		bulletinboard.systems
 
-==================================================================================

@@ -15,6 +15,52 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2020-04-26
+Added	- Node 3/125 - Physics				(US) - Welcome Jesse Cussins :)
+
+2020-04-20
+Added	- Node 3/124 - retrocomputacion			(Pvt)- Welcome Thierry Olmedo :)
+
+2020-04-13
+Added	- Node 3/123 - Card & Claw			(US) - Welcome Robbie Whiting :)
+
+2020-03-31
+Added	- Node 3/122 - Dreambuilders			(US) - Welcome Hauns Froehlingsdorf :)
+
+2020-03-27
+Added	- Node 3/121 - SpaceSST BBS			(US) - Welcome Luc McCarragher :)
+
+2020-03-15
+Info	- Starting to add ZeroTier node ID's to the nodelist
+Added	- Added Castle Rock's ZeroTier node ID
+Added	- Added Hub AU and Chinwag's ZeroTier node ID
+
+
+2020-01-01
+***************** HAPPY NEW YEAR TO ALL MY FRIENDS AND BBS FAMILY EVERYWHERE *********************
+
+
+2019-12-29
+Added	- Node 3/120 - Dark Matter BBS			(US) - Welcome Will Milberger :)
+
+2019-12-20
+Added	- Node 3/119 - Deadbeatz BBS			(US) - Welcome to Timothy Blada :)
+
+2019-11-15
+Added	- Node 1/103 - HB3NOS				(NL) - Welcome/Welkom to Henk Blanken :)
+
+2019-11-14
+Added	- Node 3/118 - Stellar Darkness			(US) - Welcome Mike Da Costa :)
+
+2019-11-06
+Added	- Node 3/117 - Insane Asylum			(Pvt)- Welcome Ktulu :)
+
+2019-10-12
+Added	- Node 3/116 - V'Ger BBS			(US) - Welcome Bradley Thornton :)
+
+2019-08-28
+Info	- Nodelist now being created by MakeNL 
+
 2019-08-08
 Added	- Node 3/115 - Freeside BBS			(US) - Welcome to Marty Taylor :)
 
