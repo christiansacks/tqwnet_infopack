@@ -31,7 +31,7 @@ NET 3 (1337:3/xxx)
 103 Capitol City Online			Mike Powell		capitolcityonline.net
 104 CIA Amiga BBS			Tim Grooms		ciaamigabbs.dynu.net
 105 Battlestar_BBS			Mark Iezzi		battlestarbbs.dyndns.org
-106 The Bottomless Abyss BBS		Dave_Cloutier		bbs.bottomlessabyss.net
+106 The Bottomless Abyss BBS		Dave Cloutier		bbs.bottomlessabyss.net
 107 Necronomicon BBS			Carlos Roldan		necrobbs.strangled.net
 108 LostCause Halfway House BBS		Ernest J Gainey III	bbs.lostcause.house
 109 The Fishingnet BBS			Matthew Smith		fishingnet.phatstar.org:7777
@@ -41,14 +41,14 @@ NET 3 (1337:3/xxx)
 113 Raiders Inc BBS			Jon Justvig		vintagebbsing.com
 114 Central HeadQuarters BBS		Matthew Anderson	chq.ddns.net:2023
 115 Freeside BBS			Marty Taylor		freeside.bbs.io
-116 V'Ger_BBS				Bradley_Thornton	vger.cloud
+116 V'Ger_BBS				Bradley Thornton	vger.cloud
 117 Insane_Asylum			Ktulu			* Private *
-118 Stellar_Darkness			Mike_Da_Costa		stellardarkness.com:2023
-119 Deadbeatz_BBS			Timothy_Blada		deadbeatz.org
-120 ark_Matter_BBS			Will_Milberger		darkmatt.synchro.net
-121 SpaceSST_BBS			Luc_McCarragher		mccarragher.org
-122 Dreambuilders			Hauns_Froehlingsdorf	dreambuilders.fros.com:6800
-123 Card_&_Claw				Robbie_Whiting		cardandclaw.com:8888
-124 retrocomputacion			Thierry_Olmedo		* Private *
-125 Physics				Jesse_Cussins		bulletinboard.systems
-
+118 Stellar_Darkness			Mike Da Costa		stellardarkness.com:2023
+119 Deadbeatz_BBS			Timothy Blada		deadbeatz.org
+120 ark_Matter_BBS			Will Milberger		darkmatt.synchro.net
+121 SpaceSST_BBS			Luc McCarragher		mccarragher.org
+122 Dreambuilders			Hauns Froehlingsdorf	dreambuilders.fros.com:6800
+123 Card_&_Claw				Robbie Whiting		cardandclaw.com:8888
+124 retrocomputacion			Thierry Olmedo		* Private *
+125 Physics				Jesse Cussins		bulletinboard.systems
+126 Northern Realms			Jay Harris		bbs.nrbbs.net
