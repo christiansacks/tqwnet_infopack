@@ -15,8 +15,12 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2020-07-21
+Added	- Node 3/130 - Pweck's Retreat			(US) - Welcome Dean Lodge :)
+Added	- Node 3/129 - 20 For Beers			(US) - Welcome Paul Lee :)
+
 2020-06-16
-Added	- Node 3/1128 - 1984 BBS			(US) - Welcome Jeff Liford :)
+Added	- Node 3/128 - 1984 BBS				(US) - Welcome Jeff Liford :)
 
 2020-05-27
 Added	- Node 3/127 - The Unknown Realm		(CA) - Welcome Mike McCafferty :)
