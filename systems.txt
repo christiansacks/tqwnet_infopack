@@ -56,3 +56,4 @@ NET 3 (1337:3/xxx)
 128 1984 BBS				Jeff Liford		1984bbs.net
 129 20 For Beers			Paul Lee		20ForBeers.com:1337
 130 Pweck's Retreat			Dean Lodge		bbs.pweck.net
+131 The Search BBS			Karl Harris		bbs.theharrisclan.net:34123
