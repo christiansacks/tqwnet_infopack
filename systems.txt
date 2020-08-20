@@ -12,6 +12,7 @@ NET 1 (1337:1/xxx)
 101 The Quantum Wormhole		Christian Sacks		bbs.erb.pw
 102 Kuehlbox				Philipp Giebel		kuehlbox.wtf
 103 HB3NOS				Henk Blanken		62.238.86.72
+104 FuNToPia				Stephan Gebbers		funtopia.ddnss.eu:2023
 201 dYslExIc dOnkEy			Christian Sacks		dydo.erb.pw:1337
 
 
