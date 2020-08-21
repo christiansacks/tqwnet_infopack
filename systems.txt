@@ -13,6 +13,7 @@ NET 1 (1337:1/xxx)
 102 Kuehlbox				Philipp Giebel		kuehlbox.wtf
 103 HB3NOS				Henk Blanken		62.238.86.72
 104 FuNToPia				Stephan Gebbers		funtopia.ddnss.eu:2023
+105 TechNoir				Runner Seven		technoir.panthermodern.net:723
 201 dYslExIc dOnkEy			Christian Sacks		dydo.erb.pw:1337
 
 
