@@ -57,6 +57,6 @@ NET 3 (1337:3/xxx)
 127 The Unknown Realm			Mike McCafferty		turealm.no-ip.org:3023
 128 1984 BBS				Jeff Liford		1984bbs.net
 129 20 For Beers			Paul Lee		20ForBeers.com:1337
-130 Pweck's Retreat			Dean Lodge		bbs.pweck.net
+130 Pweck's Retreat			Dean Lodge		pwecksretreat.com
 131 The Search BBS			Karl Harris		bbs.theharrisclan.net:34123
 132 The Underground			Doug Cooper		www.theunderground.us:10023
