@@ -15,6 +15,10 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2020-09-20
+Added	- Node 3/133 - NeoCincinnati BBS		(US) - Welcome Nikki Jenks :)
+Added	- Node 1/107 - Sonic BBS			(UK) - Welcome Louis Northmore :)
+
 2020-08-21
 Changed	- Node 3/130 - Pweck's Retreat 			(US) - New domain "pwecksretreat.com"
 Added	- Node 1/105 - TechNoir				(DE) - Welcome Runner Seven :)

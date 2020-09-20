@@ -15,6 +15,7 @@ NET 1 (1337:1/xxx)
 104 FuNToPia				Stephan Gebbers		funtopia.ddnss.eu:2023
 105 TechNoir				Runner Seven		technoir.panthermodern.net:723
 106 -.sOUNDGARDEn.-			Marco Reparon		* Private *
+107 Sonic BBS				Louis Northmore		bbs.sonicbbs.co.uk
 201 dYslExIc dOnkEy			Christian Sacks		dydo.erb.pw:1337
 
 
@@ -61,3 +62,4 @@ NET 3 (1337:3/xxx)
 130 Pweck's Retreat			Dean Lodge		pwecksretreat.com
 131 The Search BBS			Karl Harris		bbs.theharrisclan.net:34123
 132 The Underground			Doug Cooper		www.theunderground.us:10023
+133 NeoCincinnati BBS			Nikki Jenks		neocinci.bbs.io:2323
