@@ -63,3 +63,4 @@ NET 3 (1337:3/xxx)
 131 The Search BBS			Karl Harris		bbs.theharrisclan.net:34123
 132 The Underground			Doug Cooper		www.theunderground.us:10023
 133 NeoCincinnati BBS			Nikki Jenks		neocinci.bbs.io:2323
+134 Gray Matter BBS			Greg Youngblood		graymatterbbs.com:2323
