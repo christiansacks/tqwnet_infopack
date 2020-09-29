@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2020-09-29
+Changed - Node 3/123 - Card & Claw -> The Drunken Gamer	(US) - New domain "thedrunkengamer.com"
+
 2020-09-21
 Added	- Node 3/134 - Gray Matter BBS			(US) - Welcome Greg Youngblood :)
 

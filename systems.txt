@@ -52,7 +52,7 @@ NET 3 (1337:3/xxx)
 120 ark_Matter_BBS			Will Milberger		darkmatt.synchro.net
 121 SpaceSST_BBS			Luc McCarragher		mccarragher.org
 122 Dreambuilders			Hauns Froehlingsdorf	dreambuilders.fros.com:6800
-123 Card_&_Claw				Robbie Whiting		cardandclaw.com:8888
+123 The Drunken Gamer			Robbie Whiting		thedrunkengamer.com:8888
 124 retrocomputacion			Thierry Olmedo		* Private *
 125 Physics				Jesse Cussins		bulletinboard.systems
 126 Northern Realms			Jay Harris		bbs.nrbbs.net
