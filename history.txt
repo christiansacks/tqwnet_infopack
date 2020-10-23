@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2020-10-23
+Added	- Node 3/135 - Halls of Valhalla BBS		(US) - Welcome Morgan Collins :)
+
 2020-09-29
 Changed - Node 3/123 - Card & Claw -> The Drunken Gamer	(US) - New domain "thedrunkengamer.com"
 
