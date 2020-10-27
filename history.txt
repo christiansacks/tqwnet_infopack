@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2020-10-27
+Added	- Node 3/136 - Inner Realm BBS			(US) - Welcome Michael Long :)
+
 2020-10-23
 Added	- Node 3/135 - Halls of Valhalla BBS		(US) - Welcome Morgan Collins :)
 
