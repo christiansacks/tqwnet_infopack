@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2020-11-03
+Added	- Node 3/137 - The Ghetto BBS			(US) - Another Greg Youngblood prod. :)
+
 2020-10-27
 Added	- Node 3/136 - Inner Realm BBS			(US) - Welcome Michael Long :)
 

@@ -66,3 +66,4 @@ NET 3 (1337:3/xxx)
 134 Gray Matter BBS			Greg Youngblood		graymatterbbs.com:2323
 135 Halls of Valhalla			Morgan Collins		hovalbbs.com:2333
 136 Inner Realm BBS			Michael Long		innerrealmbbs.us
+137 The Ghetto BBS			Greg Youngblood		theghettobbs.com:2323
