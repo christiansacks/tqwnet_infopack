@@ -69,3 +69,4 @@ NET 3 (1337:3/xxx)
 137 The Ghetto BBS			Greg Youngblood		theghettobbs.com:2323
 138 Point Of No Return			Mark De Silva		pointofnoreturn.zapto.org:2323
 139 Havens BBS				Steve Wolf		havens.synchro.net
+140 Rust Belt BBS			Kevin Miller		rbbbs.mtonetwork.com
