@@ -17,6 +17,7 @@ NET 1 (1337:1/xxx)
 106 -.sOUNDGARDEn.-			Marco Reparon		* Private *
 107 Sonic BBS				Louis Northmore		bbs.sonicbbs.co.uk
 201 dYslExIc dOnkEy			Christian Sacks		dydo.erb.pw:1337
+202 PiMP BBS				Christian Sacks		pimpbbs.erb.pw:18023
 
 
 NET 2 (1337:2/xxx)
