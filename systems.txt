@@ -73,3 +73,4 @@ NET 3 (1337:3/xxx)
 139 Havens BBS				Steve Wolf		havens.synchro.net
 140 Rust Belt BBS			Kevin Miller		rbbbs.mtonetwork.com
 141 cortex				Tony Toon		deepthaw.net
+142 Dark Systems BBS			Aaron Grasswell		bbs.dsbbs.ca
