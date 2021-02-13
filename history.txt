@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2021-02-13
+Added	- Node 3/143 - Slate Hell BBS			(US) - Welcome Anthony Stump :)
+
 2021-01-30
 Added	- Node 3/142 - Dark Systems BBS			(CA) - Welcome Aaron Grasswell :)
 
