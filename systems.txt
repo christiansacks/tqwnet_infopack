@@ -27,6 +27,7 @@ NET 2 (1337:2/xxx)
 101 Chinwag				Deon George		chinwag.leenooks.net:10023
 102 Happyland				Andrew Pamment		happyland.magickabbs.com:2023
 103 Freeway BBS				Tony Langdon		freeway.vkradio.com
+104 Al's Geek Lab			Alistair Ross		bbs.alsgeeklab.com:2323
 
 
 NET 3 (1337:3/xxx)
