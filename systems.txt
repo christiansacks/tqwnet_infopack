@@ -17,6 +17,8 @@ NET 1 (1337:1/xxx)
 106 -.sOUNDGARDEn.-			Marco Reparon		* Private *
 107 Sonic BBS				Louis Northmore		bbs.sonicbbs.co.uk
 108 Imzadi Box				Anna Christina Nass	box.imzadi.de
+109 ** UNUSED **
+110 TFSI				Nick Young		tfsi.synchronetbbs.org
 201 dYslExIc dOnkEy			Christian Sacks		dydo.erb.pw:1337
 202 PiMP BBS				Christian Sacks		pimpbbs.erb.pw:18023
 
