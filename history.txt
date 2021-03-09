@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2021-03-09
+Added	- Node 1/111 - BeBeeS				(CZE) - Welcome Milan Minic :)
+
 2021-03-03
 Added	- Node 1/110 - TFSI				(UK) - Welcome Nick Young :)
 
