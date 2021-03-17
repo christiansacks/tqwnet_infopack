@@ -80,3 +80,4 @@ NET 3 (1337:3/xxx)
 142 Dark Systems BBS			Aaron Grasswell		bbs.dsbbs.ca
 143 Slate Hell BBS			Anthony Stump		msbgtn01.synchro.net
 144 Buckeye Telegraph			Dean Galloway		n/a
+145 Ground Control			Matthew Blocker		gcbbs.duckdns.org:2323
