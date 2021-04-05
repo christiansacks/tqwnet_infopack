@@ -82,3 +82,4 @@ NET 3 (1337:3/xxx)
 144 Buckeye Telegraph			Dean Galloway		n/a
 145 Ground Control			Matthew Blocker		gcbbs.duckdns.org:2323
 146 Lunatics Unleashed			Ross Branham		lunaticsunleashed.ddns.net
+147 Error404 BBS			Todd Zieman		error404bbs.ddns.net:404

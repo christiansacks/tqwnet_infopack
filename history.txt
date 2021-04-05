@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2021-04-05
+Added	- Node 3/147 - Error404 BBS			(US) - Welcome Todd Zieman :)
+
 2021-03-19
 Added	- Node 3/146 - Lunatics Unleashed		(US) - Welcome Ross Branham :)
 
