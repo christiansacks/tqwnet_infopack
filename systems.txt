@@ -83,3 +83,4 @@ NET 3 (1337:3/xxx)
 145 Ground Control			Matthew Blocker		gcbbs.duckdns.org:2323
 146 Lunatics Unleashed			Ross Branham		lunaticsunleashed.ddns.net
 147 Error404 BBS			Todd Zieman		error404bbs.ddns.net:404
+148 Odyssey BBS				Michael Schaffer	odysseybbs.ddns.net:8080
