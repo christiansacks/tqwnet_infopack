@@ -20,6 +20,7 @@ NET 1 (1337:1/xxx)
 109 ** UNUSED **
 110 TFSI				Nick Young		tfsi.synchronetbbs.org
 111 BeBeeS				Milan Minic		gopher.su:1234
+112 Roon's BBS				Daniel Path		bbs.studio64.hu:1212
 201 dYslExIc dOnkEy			Christian Sacks		dydo.erb.pw:1337
 202 PiMP BBS				Christian Sacks		pimpbbs.erb.pw:18023
 
