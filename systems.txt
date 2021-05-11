@@ -38,7 +38,6 @@ NET 2 (1337:2/xxx)
 NET 3 (1337:3/xxx)
 
 100 tqwNet CA HUB			Christian Sacks		hub.ca.erb.pw:24554
-101 The Rusty Mail Box			Alan Ianson		trmb.synchro.net
 102 The Wrong Number ][			Al DeRosa		wn2.duckdns.org
 103 Capitol City Online			Mike Powell		capitolcityonline.net
 104 CIA Amiga BBS			Tim Grooms		ciaamigabbs.dynu.net
