@@ -87,3 +87,4 @@ NET 3 (1337:3/xxx)
 147 Error404 BBS			Todd Zieman		error404bbs.ddns.net:404
 148 Odyssey BBS				Michael Schaffer	odysseybbs.ddns.net:8080
 149 The Undermine			Kostie Muirhead		bbs.undermine.ca
+150 ConstructiveChaos BBS		Craig Hendricks		conchaos.synchro.net

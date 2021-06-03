@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2021-05-18
+Added	- Node 3/150 - ConstructiveChaos BBS		(US) - Welcome Craig Hendricks :)
+
 2021-05-14
 Added	- Node 1/114 - Silent Chat BBS			(AT) - Welcome Michael Mrak :)
 
