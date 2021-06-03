@@ -88,3 +88,4 @@ NET 3 (1337:3/xxx)
 148 Odyssey BBS				Michael Schaffer	odysseybbs.ddns.net:8080
 149 The Undermine			Kostie Muirhead		bbs.undermine.ca
 150 ConstructiveChaos BBS		Craig Hendricks		conchaos.synchro.net
+151 Spot BBS				Steve Weinert		spotbbs.k9zw.com:1123
