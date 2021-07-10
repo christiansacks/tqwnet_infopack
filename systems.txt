@@ -89,3 +89,4 @@ NET 3 (1337:3/xxx)
 149 The Undermine			Kostie Muirhead		bbs.undermine.ca
 150 ConstructiveChaos BBS		Craig Hendricks		conchaos.synchro.net
 151 Spot BBS				Steve Weinert		spotbbs.k9zw.com:1123
+152 Shipwrecks & Shibboleths		Chris Hizny		shibboleths.org:800
