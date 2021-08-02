@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2021-08-02
+Added	- Node 3/153 - Crewmate's Test Lab		(US) - Welcome Mike Edwards :)
+
 2021-07-10
 Added	- Node 3/152 - Shipwrecks & Shibboleths		(US) - Welcome Chris Hizny :)
 

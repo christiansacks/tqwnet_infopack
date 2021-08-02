@@ -87,3 +87,4 @@ Michael Mrak from Silent Chat BBS			@ 1337:1/114
 Craig Hendricks from ConstructiveChaos BBS		@ 1337:3/150
 Steve Weinert from Spot BBS				@ 1337:3/151
 Chris Hizny from Shipwrecks & Shibboleths		@ 1337:3/152
+Mike Edwards from Crewmate's Test Lab			@ 1337:3/153
