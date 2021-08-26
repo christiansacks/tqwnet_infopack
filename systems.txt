@@ -94,3 +94,4 @@ NET 3 (1337:3/xxx)
 154 pLANET cARAVAN BBS			Kevin Blalock		lab.zylone.org
 155 Nightvault				Fang Castro		tos.synchronetbbs.org:2323
 156 Shadowscope				Richard Miles		bbs.shadowscope.com
+157 The Ruins				JaXson			theruins.ddns.net:9707
