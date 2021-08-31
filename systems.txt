@@ -95,3 +95,4 @@ NET 3 (1337:3/xxx)
 155 Nightvault				Fang Castro		tos.synchronetbbs.org:2323
 156 Shadowscope				Richard Miles		bbs.shadowscope.com
 157 The Ruins				JaXson			theruins.ddns.net:9707
+158 Hive32				Luke Galutia		bbs.hive32.com:23333
