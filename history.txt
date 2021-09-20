@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2021-09-20
+Added	- Node 3/159 - Archaic Binary			(US) - Welcome Wayne Smith :)
+
 2021-08-31
 Added	- Node 3/158 - Hive32				(US) - Welcome Luke Galutia :)
 
