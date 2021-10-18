@@ -97,3 +97,4 @@ NET 3 (1337:3/xxx)
 157 The Ruins				JaXson			theruins.ddns.net:9707
 158 Hive32				Luke Galutia		bbs.hive32.com:23333
 159 Archaic Binary			Wayne Smith		bbs.archaicbinary.net
+160 Battlestar Pegasus			Mark Iezzi		pegasusbbs.dyndns.org
