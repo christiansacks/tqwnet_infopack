@@ -95,3 +95,4 @@ JaXson from The Ruins					@ 1337:3/157
 Luke Galutia from Hive32				@ 1337:3/158
 Wayne Smith from Archaic Binary				@ 1337:3/159
 Mark Iezzi from Battlestar Pegasus			@ 1337:3/160
+Hung Tran from Wicked Garden BBS			@ 1337:2/105
