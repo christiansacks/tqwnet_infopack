@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2022-02-18
+Removed	- Node 2/105 - Wicked Garden BBS		(AU) - Sorry to see you go Hung Tran :'(
+
 2022-02-07
 Added	- Node 3/161 - Cheshire Underground		(US) - Welcome Jon Martin :)
 

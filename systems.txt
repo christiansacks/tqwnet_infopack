@@ -1,5 +1,5 @@
 
-             --- tqwNet connected Systems as of 2020-04-26 ---
+             --- tqwNet connected Systems as of 2022-02-18 ---
 
 
 ==================================================================================
@@ -35,7 +35,6 @@ NET 2 (1337:2/xxx)
 102 Happyland v2.0			Andrew Pamment		happyland.zapto.org:11892
 103 Freeway BBS				Tony Langdon		freeway.vkradio.com
 104 Al's Geek Lab			Alistair Ross		bbs.alsgeeklab.com:2323
-105 Wicked Garden BBS			Hung Tran		bbs.wgonline.pw
 
 
 NET 3 (1337:3/xxx)
