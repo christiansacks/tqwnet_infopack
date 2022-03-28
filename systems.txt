@@ -100,3 +100,4 @@ NET 3 (1337:3/xxx)
 159 Archaic Binary			Wayne Smith		bbs.archaicbinary.net
 160 Battlestar Pegasus			Mark Iezzi		pegasusbbs.dyndns.org
 161 Cheshire Underground		Jon Martin		bbs.cheshirezine.com:6502
+162 Angstridden				Steve Layton		angstridden.net:1337
