@@ -101,3 +101,4 @@ NET 3 (1337:3/xxx)
 160 Battlestar Pegasus			Mark Iezzi		pegasusbbs.dyndns.org
 161 Cheshire Underground		Jon Martin		bbs.cheshirezine.com:6502
 162 Angstridden				Steve Layton		angstridden.net:1337
+163 Mystic Realms			Jeff Earle		mysticrealms.ddns.net:11000
