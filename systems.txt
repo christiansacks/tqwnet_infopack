@@ -102,3 +102,5 @@ NET 3 (1337:3/xxx)
 161 Cheshire Underground		Jon Martin		bbs.cheshirezine.com:6502
 162 Angstridden				Steve Layton		angstridden.net:1337
 163 Mystic Realms			Jeff Earle		mysticrealms.ddns.net:11000
+164 Alcoholiday				Andrew Haworth		alco.bbs.io
+165 Blackfair's Manor			Keith Cunningham	blackf.synchro.net
