@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2022-05-18
+Added	- Node 3/166 - 42bytes				(US) - Welcome Brian Klauss :)
+
 2022-05-16
 Added	- Node 3/165 - Blackfair's Manor		(US) - Welcome Keith Cunnigham :)
 Added	- Node 3/164 - Alcoholiday			(US) - Welcome Andrew Haworth :)

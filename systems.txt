@@ -104,3 +104,4 @@ NET 3 (1337:3/xxx)
 163 Mystic Realms			Jeff Earle		mysticrealms.ddns.net:11000
 164 Alcoholiday				Andrew Haworth		alco.bbs.io
 165 Blackfair's Manor			Keith Cunningham	blackf.synchro.net
+166 42bytes				Brian Klauss		42bytes.net
