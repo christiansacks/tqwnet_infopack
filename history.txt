@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2022-05-29
+Changed	- Node 2/105 - The Positronic Brain		(AU) - Private system changed to Public! Woohoo =)
+
 2022-05-23
 Added	- Node 2/105 - The Positronic Brain		(AU) - A private system for Andrew Pamment =)
 

@@ -35,7 +35,7 @@ NET 2 (1337:2/xxx)
 102 Happyland v2.0			Andrew Pamment		happyland.zapto.org:11892
 103 Freeway BBS				Tony Langdon		freeway.vkradio.com
 104 Al's Geek Lab			Alistair Ross		bbs.alsgeeklab.com:2323
-105 The Positronic Brain		Andrew Pamment		Private Node
+105 The Positronic Brain		Andrew Pamment		positronic.ddns.net:11892
 
 
 NET 3 (1337:3/xxx)
