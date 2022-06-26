@@ -32,7 +32,7 @@ NET 2 (1337:2/xxx)
 
 100 tqwNet AU HUB			Deon George		hub.au.erb.pw:24554
 101 Chinwag				Deon George		chinwag.leenooks.net:10023
-102 Happyland v2.0			Andrew Pamment		happyland.zapto.org:11892
+102 DELISTED				DELISTED		DELISTED
 103 Freeway BBS				Tony Langdon		freeway.vkradio.com
 104 Al's Geek Lab			Alistair Ross		bbs.alsgeeklab.com:2323
 105 The Positronic Brain		Andrew Pamment		positronicbrain.net:11892
