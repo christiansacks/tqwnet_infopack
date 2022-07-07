@@ -24,6 +24,7 @@ NET 1 (1337:1/xxx)
 113 Stealthworld BBS			Arjen Schumacher	stealthworld.tk:2023
 114 Silent Chat BBS			Michael Mrak		fidobbs.mrak.at
 115 Bodax BBS				Tobias Rosenqvist	bbs.beardy.se
+116 Taliadon BBS			Lee Westlake		taliadon.ddns.net
 201 dYslExIc dOnkEy			Christian Sacks		dydo.erb.pw:1337
 202 PiMP BBS				Christian Sacks		pimpbbs.erb.pw:18023
 

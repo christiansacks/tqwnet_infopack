@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2022-07-07
+Added	- Node 1/116 - Taliadon BBS			(UK) - Welcome Lee Westlake :)
+
 2022-07-04
 Added	- Node 2/106 - TassieBob BBS			(AU) - Welcome Bob Purdon :)
 
