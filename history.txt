@@ -17,6 +17,10 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 >> Further history to be added as time permits <<
 2022-07-07
 Added	- Node 1/116 - Taliadon BBS			(UK) - Welcome Lee Westlake :)
+							Primarily envisioned as a programming related
+							file server and messaging system, this BBS 
+							now serves as the official repository for 
+							"The Grumpy Coder" YouTube channel.
 
 2022-07-04
 Added	- Node 2/106 - TassieBob BBS			(AU) - Welcome Bob Purdon :)
