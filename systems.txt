@@ -38,6 +38,7 @@ NET 2 (1337:2/xxx)
 104 Al's Geek Lab			Alistair Ross		bbs.alsgeeklab.com:2323
 105 The Positronic Brain		Andrew Pamment		positronicbrain.net:11892
 106 TassieBob BBS			Bob Purdon		bbs.tassiebob.com:2323
+107 Jump to the left BBS		Jared Quinn		bbs.vk2way.id.au
 
 
 NET 3 (1337:3/xxx)

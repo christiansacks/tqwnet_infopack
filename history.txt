@@ -15,6 +15,11 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2022-07-11
+Added	- Node 2/107 - Jump to the left BBS		(AU) - Welcome Jared Quinn :)
+							Jump to the left BBS is running Enigma1/2 and
+							is based in Syndney, NSW. 
+
 2022-07-07
 Added	- Node 1/116 - Taliadon BBS			(UK) - Welcome Lee Westlake :)
 							Primarily envisioned as a programming related
