@@ -15,6 +15,22 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2022-07-18
+Added	- Node 3/167 - oNyX bBs				(US) - Welcome Clive Reuben :)
+                                                        oNyX is the culmination of a childhood
+                                                        dream of someday putting up my very own
+                                                        BBS. Yep, like a lot of you I was doing
+                                                        the BBS thing when I was a kid writing
+                                                        terminal apps, war dialers and such. I
+                                                        eventually wrote my own BBS for the
+                                                        C=64, OMNI BBS, but didn't have the
+                                                        extra phone line to keep it running for
+                                                        much longer than to let someone download
+                                                        some files... All-the- while, I was
+                                                        busily logging onto everyone else's
+                                                        BBS's hoping someday to put up one of my
+                                                        own for real...
+
 2022-07-11
 Added	- Node 2/107 - Jump to the left BBS		(AU) - Welcome Jared Quinn :)
 							Jump to the left BBS is running Enigma1/2 and
