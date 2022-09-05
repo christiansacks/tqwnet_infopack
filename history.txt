@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2022-09-05
+Added	- Node 3/168 - WarpeD SocieTy			(US) - Welcome Allen Mitchell :)
+
 2022-07-18
 Added	- Node 3/167 - oNyX bBs				(US) - Welcome Clive Reuben :)
                                                         oNyX is the culmination of a childhood

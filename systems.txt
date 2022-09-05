@@ -110,3 +110,4 @@ NET 3 (1337:3/xxx)
 165 Blackfair's Manor			Keith Cunningham	blackf.synchro.net
 166 42bytes				Brian Klauss		42bytes.net
 167 oNyX bBs				Clive Reuben		onyxbbs.mywire.org:2300
+168 WarpeD SocieTy			Allen Mitchell		-unpublished-
