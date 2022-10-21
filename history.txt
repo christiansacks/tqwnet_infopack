@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2022-10-21
+Added	- Node 3/169 - monterey				(US) - Welcome Ryan Fantus :)
+
 2022-09-05
 Added	- Node 3/168 - WarpeD SocieTy			(US) - Welcome Allen Mitchell :)
 
