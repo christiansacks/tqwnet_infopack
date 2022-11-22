@@ -112,3 +112,4 @@ NET 3 (1337:3/xxx)
 167 oNyX bBs				Clive Reuben		onyxbbs.mywire.org:2300
 168 WarpeD SocieTy			Allen Mitchell		-unpublished-
 169 monterey				Ryan Fantus		montereybbs.com
+170 Made to Raid			Chris Manigan		bbs.madetoraid.com:2323
