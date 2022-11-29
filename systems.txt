@@ -113,3 +113,4 @@ NET 3 (1337:3/xxx)
 168 WarpeD SocieTy			Allen Mitchell		-unpublished-
 169 monterey				Ryan Fantus		montereybbs.com
 170 Made to Raid			Chris Manigan		bbs.madetoraid.com:2323
+171 KANSIT WHQ				Ryder Navi		whq.kansit.com
