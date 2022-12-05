@@ -115,3 +115,4 @@ NET 3 (1337:3/xxx)
 170 Made to Raid			Chris Manigan		bbs.madetoraid.com:2323
 171 KANSIT WHQ				Ryder Navi		whq.kansit.com
 172 Altair IV BBS			Scott Daniels		altairiv.ddns.net:2323
+173 Insomnia City			Mark Hartmann		bbs.farcasternet.org
