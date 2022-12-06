@@ -21,6 +21,19 @@ Delisted HappyLand v2.0 // 1337:2/102
 '---------------------'
 
 Hung Tran from Wicked Garden BBS			@ 1337:2/105
+Matthew Smith from The Fishingnet			@ 1337:3/109
+Rex Gibson from Tellnet BBS				@ 1337:3/110
+Mickey Frklic from Mystic Island BBS			@ 1337:3/112
+Matthew Anderson from Central HQ			@ 1337:3/114
+Mike De Costa from Stellar Darkness			@ 1337:3/118
+Will Milberger from Dark Matter				@ 1337:3/120
+private from private					@ 1337:3/124
+Jeff Lifford from 1984 BBS				@ 1337:3/128
+Nikki Jenks from NeoCincinnati BBS			@ 1337:3/133
+Steve Wolf from Havens BBS				@ 1337:3/139
+Tony Toon from Cortex					@ 1337:3/141
+Anthony Stump from Slate Hell BBS			@ 1337:3/143
+Michael_Schaffer from Odyssey BBS			@ 1337:3/148
 
 
 .---------------------.

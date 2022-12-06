@@ -51,46 +51,33 @@ NET 3 (1337:3/xxx)
 106 The Bottomless Abyss BBS		Dave Cloutier		bbs.bottomlessabyss.net
 107 Necronomicon BBS			Carlos Roldan		necrobbs.strangled.net
 108 LostCause Halfway House BBS		Ernest J Gainey III	bbs.lostcause.house
-109 The Fishingnet BBS			Matthew Smith		fishingnet.phatstar.org:7777
-110 t3llnet				Rex Gibson		t3llnet.ddns.net
 111 Castle Rock BBS			Dan Richter		bbs.castlerockbbs.com
-112 Mystic Island BBS			Mickey Frklic		mysticisland.strangled.net
 113 Raiders Inc BBS			Jon Justvig		vintagebbsing.com
-114 Central HeadQuarters BBS		Matthew Anderson	chq.ddns.net:2023
 115 Freeside BBS			Marty Taylor		freeside.bbs.io
 116 V'Ger_BBS				Bradley Thornton	vger.cloud
 117 Insane_Asylum			Ktulu			* Private *
-118 Stellar_Darkness			Mike Da Costa		stellardarkness.com:2023
 119 Deadbeatz_BBS			Timothy Blada		deadbeatz.org
-120 ark_Matter_BBS			Will Milberger		darkmatt.synchro.net
 121 SpaceSST_BBS			Luc McCarragher		mccarragher.org
 122 Dreambuilders			Hauns Froehlingsdorf	dreambuilders.fros.com:6800
 123 The Drunken Gamer			Robbie Whiting		thedrunkengamer.com:8888
-124 retrocomputacion			Thierry Olmedo		* Private *
 125 Physics				Jesse Cussins		bulletinboard.systems
 126 Northern Realms			Jay Harris		bbs.nrbbs.net
 127 The Unknown Realm			Mike McCafferty		turealm.no-ip.org:3023
-128 1984 BBS				Jeff Liford		1984bbs.net
 129 20 For Beers			Paul Lee		20ForBeers.com:1337
 130 Pweck's Retreat			Dean Lodge		pwecksretreat.com
 131 The Search BBS			Karl Harris		bbs.theharrisclan.net:34123
 132 The Underground			Doug Cooper		www.theunderground.us:10023
-133 NeoCincinnati BBS			Nikki Jenks		neocinci.bbs.io:2323
 134 Gray Matter BBS			Greg Youngblood		graymatterbbs.com:2323
 135 Halls of Valhalla			Morgan Collins		hovalbbs.com:2333
 136 Inner Realm BBS			Michael Long		innerrealmbbs.us
 137 The Ghetto BBS			Greg Youngblood		theghettobbs.com:2323
 138 Point Of No Return			Mark De Silva		pointofnoreturn.zapto.org:2323
-139 Havens BBS				Steve Wolf		havens.synchro.net
 140 Rust Belt BBS			Kevin Miller		rbbbs.mtonetwork.com
-141 cortex				Tony Toon		deepthaw.net
 142 Dark Systems BBS			Aaron Grasswell		bbs.dsbbs.ca
-143 Slate Hell BBS			Anthony Stump		msbgtn01.synchro.net
 144 Buckeye Telegraph			Dean Galloway		n/a
 145 Ground Control			Matthew Blocker		gcbbs.duckdns.org:2323
 146 Lunatics Unleashed			Ross Branham		lunaticsunleashed.ddns.net
 147 Error404 BBS			Todd Zieman		error404bbs.ddns.net:404
-148 Odyssey BBS				Michael Schaffer	odysseybbs.ddns.net:8080
 149 The Undermine			Kostie Muirhead		bbs.undermine.ca
 150 ConstructiveChaos BBS		Craig Hendricks		conchaos.synchro.net
 151 Spot BBS				Steve Weinert		spotbbs.k9zw.com:1123
