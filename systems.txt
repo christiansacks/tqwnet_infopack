@@ -26,6 +26,7 @@ NET 1 (1337:1/xxx)
 115 Bodax BBS				Tobias Rosenqvist	bbs.beardy.se
 116 Taliadon BBS			Lee Westlake		taliadon.ddns.net
 117 The Global Village BBS		Sebastian van der Veen	* Private *
+118 Phrenetic BBS			Per Gustav Ousdal	bbs.phrenetic.no:2023
 201 dYslExIc dOnkEy			Christian Sacks		dydo.erb.pw:1337
 202 PiMP BBS				Christian Sacks		pimpbbs.erb.pw:18023
 
