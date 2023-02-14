@@ -106,3 +106,4 @@ NET 3 (1337:3/xxx)
 172 Altair IV BBS			Scott Daniels		altairiv.ddns.net:2323
 173 Insomnia City			Mark Hartmann		bbs.farcasternet.org
 174 Sinner's Haven			Karl Krunc		bbs.sinnershaven.com
+175 Operation Ivy			David Sachs		opivy-bbs.com

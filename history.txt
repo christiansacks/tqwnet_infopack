@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2023-02-14
+Added	- Node 3/175 - Operation Ivy			(US) - Welcome David Sachs :)
+
 2023-02-11
 Added	- Node 1/118 - Phrenetic BBS			(NO) - Welcome Per Gustav Ousdal :)
 
