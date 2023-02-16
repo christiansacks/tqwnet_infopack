@@ -107,3 +107,4 @@ NET 3 (1337:3/xxx)
 173 Insomnia City			Mark Hartmann		bbs.farcasternet.org
 174 Sinner's Haven			Karl Krunc		bbs.sinnershaven.com
 175 Operation Ivy			David Sachs		opivy-bbs.com
+176 Splatter Haus			Vincent Macaluso	splatter.haus:666
