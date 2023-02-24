@@ -108,3 +108,4 @@ NET 3 (1337:3/xxx)
 174 Sinner's Haven			Karl Krunc		bbs.sinnershaven.com
 175 Operation Ivy			David Sachs		opivy-bbs.com
 176 Splatter Haus			Vincent Macaluso	splatter.haus:666
+177 Noverdu BBS				Jonah Clausen		noverdu.com
