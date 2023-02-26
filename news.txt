@@ -139,3 +139,4 @@ Per Gustav Ousdal / Phrenetic BBS			@ 1337:1/118
 David Sachs / Operation Ivy				@ 1337:3/175
 Vincent Macaluso / Splatter Haus			@ 1337:3/176
 Jonah Clausen / Noverdu BBS				@ 1337:3/177
+Kurt Weiske / realitycheckBBS				@ 1337:3/178

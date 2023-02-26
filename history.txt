@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2023-02-26
+Added	- Node 3/178 - realitycheckBBS			(US) - Welcome Kurt Weiske :)
+
 2023-02-24
 Added	- Node 3/177 - Noverdu BBS			(US) - Welcome Jonah Clausen :)
 
