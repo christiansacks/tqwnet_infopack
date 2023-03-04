@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2023-03-04
+Added	- Node 3/179 - Westwood BBS			(US) - Welcome Mike Newkirk :)
+
 2023-02-26
 Added	- Node 3/178 - realitycheckBBS			(US) - Welcome Kurt Weiske :)
 

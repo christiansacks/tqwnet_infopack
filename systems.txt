@@ -110,3 +110,4 @@ NET 3 (1337:3/xxx)
 176 Splatter Haus			Vincent Macaluso	splatter.haus:666
 177 Noverdu BBS				Jonah Clausen		noverdu.com
 178 realitycheckBBS			Kurt Weiske		realitycheckbbs.org
+179 Westwood BBS			Mike Newkirk		westwoodbbs.net:8888
