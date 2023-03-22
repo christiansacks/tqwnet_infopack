@@ -141,3 +141,4 @@ Vincent Macaluso / Splatter Haus			@ 1337:3/176
 Jonah Clausen / Noverdu BBS				@ 1337:3/177
 Kurt Weiske / realitycheckBBS				@ 1337:3/178
 Mike Newkirk / Westwood BBS				@ 1337:3/179
+John G / CrNet BBS					@ 1337:3/180

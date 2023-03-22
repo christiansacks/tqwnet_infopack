@@ -111,3 +111,4 @@ NET 3 (1337:3/xxx)
 177 Noverdu BBS				Jonah Clausen		noverdu.com
 178 realitycheckBBS			Kurt Weiske		realitycheckbbs.org
 179 Westwood BBS			Mike Newkirk		westwoodbbs.net:8888
+180 CrNet BBS				John G			bbs.crnet.net:1023
