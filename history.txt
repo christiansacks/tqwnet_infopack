@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2023-05-25
+Added	- Node 3/181 - Penguin BBS			(US) - Welcome Jeffrey Benshoff :)
+
 2023-03-22
 Added	- Node 3/180 - CrNet BBS			(US) - Welcome John G :)
 

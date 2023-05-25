@@ -112,3 +112,4 @@ NET 3 (1337:3/xxx)
 178 realitycheckBBS			Kurt Weiske		realitycheckbbs.org
 179 Westwood BBS			Mike Newkirk		westwoodbbs.net:8888
 180 CrNet BBS				John G			bbs.crnet.net:1023
+181 Penguin BBS				Jeffrey Benshoff	penguin.synchro.net
