@@ -18,7 +18,7 @@ NET 1 (1337:1/xxx)
 107 Sonic BBS				Louis Northmore		bbs.sonicbbs.co.uk
 108 Imzadi Box				Anna Christina Nass	box.imzadi.de
 109 TheForze				Robbert Langezaal	bbs.opicron.eu
-110 TFSI				Nick Young		tfsi.synchronetbbs.org
+110 TFSI				Nick Young		bbs.tfsi.dev
 111 BeBeeS				Milan Minic		gopher.su:1234
 112 Roon's BBS				Daniel Path		bbs.studio64.hu:1212
 113 Stealthworld BBS			Arjen Schumacher	stealthworld.tk:2023
