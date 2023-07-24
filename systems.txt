@@ -41,6 +41,7 @@ NET 2 (1337:2/xxx)
 105 The Positronic Brain		Andrew Pamment		positronicbrain.net:11892
 106 TassieBob BBS			Bob Purdon		bbs.tassiebob.com:2323
 107 Jump to the left BBS		Jared Quinn		bbs.vk2way.id.au
+108 Mortal BBS				Shaun Ewing		bbs.mortalbbs.com
 
 
 NET 3 (1337:3/xxx)

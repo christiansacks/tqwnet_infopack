@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2023-07-24
+Added	- Node 2/108 - Mortal BBS			(AU) - Welcome Shaun Ewing :)
+
 2023-07-19
 Changed	- Node 1/110 - TFSI				(UK) - Changed domain name =)
 
