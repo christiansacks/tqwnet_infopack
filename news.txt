@@ -144,3 +144,4 @@ Mike Newkirk / Westwood BBS				@ 1337:3/179
 John G / CrNet BBS					@ 1337:3/180
 Jeffrey Benshoff / Penguin BBS				@ 1337:3/181
 Shaun Ewing / Mortal BBS				@ 1337:2/108
+Jim Nessen / CCX BBS					@ 1337:3/182

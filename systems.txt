@@ -114,3 +114,4 @@ NET 3 (1337:3/xxx)
 179 Westwood BBS			Mike Newkirk		westwoodbbs.net:8888
 180 CrNet BBS				John G			bbs.crnet.net:1023
 181 Penguin BBS				Jeffrey Benshoff	penguin.synchro.net
+182 CCX BBS				Jim Nessen		96.43.142.180
