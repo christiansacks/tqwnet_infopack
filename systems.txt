@@ -115,3 +115,4 @@ NET 3 (1337:3/xxx)
 180 CrNet BBS				John G			bbs.crnet.net:1023
 181 Penguin BBS				Jeffrey Benshoff	penguin.synchro.net
 182 CCX BBS				Jim Nessen		96.43.142.180
+183 End Of The Line BBS			Nigel Reed		endofthelinebbs.com
