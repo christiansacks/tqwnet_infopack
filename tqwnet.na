@@ -1,16 +1,17 @@
-TQW_ADS		- BBS Adverts
-TQW_DOCKER	- Docker Chat
-TQW_BBSGEN	- General BBS Chat
-TQW_GEN		- General Chat
-TQW_GENSCI	- General Science News
-TQW_LINUX	- Linux
-TQW_MACOSX	- Mac OS X
-TQW_MBSE	- MBSE BBS Chat
-TQW_MYS		- Mystic BBS Chat
-TQW_MDEV	- Mystic BBS Development
-TQW_PYTHON	- Python General Chat
-TQW_RASPBPI	- Raspberry Pi
-TQW_BOT		- roBOT output
-TQW_SUG		- Suggestions Box
-TQW_SYNCHRO	- Synchronet BBS Chat
-TQW_TEST	- Test Echo
+TQW_ADS         - BBS Adverts
+TQW_BBSGEN      - General BBS Chat
+TQW_BOT         - roBOT output
+TQW_DOCKER      - Docker
+TQW_GEN         - General Chat
+TQW_GENSCI      - General Science News
+TQW_GENTECH     - General Technology News
+TQW_LINUX       - Linux
+TQW_MACOSX      - Mac OS X
+TQW_MBSE        - MBSE BBS Chat
+TQW_MDEV        - Mystic BBS Development
+TQW_MYS         - Mystic BBS Chat
+TQW_PYTHON      - Python General Chat
+TQW_RASPBPI     - Raspberry Pi
+TQW_SUG         - Suggestions Box
+TQW_SYNCHRO     - Synchronet BBS Chat
+TQW_TEST        - Test Echo
