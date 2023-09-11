@@ -41,6 +41,7 @@ NET 2 (1337:2/xxx)
 105 The Positronic Brain		Andrew Pamment		positronicbrain.net:11892
 106 TassieBob BBS			Bob Purdon		bbs.tassiebob.com:2323
 108 Mortal BBS				Shaun Ewing		bbs.mortalbbs.com
+109 Retroverse				Matt Ianson		bbs.retroverse.au
 
 
 NET 3 (1337:3/xxx)

@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2023-09-11
+Added	- Node 2/109 - Retroverse			(AU) - Welcome Matt Ianson :)
+
 2023-09-04
 Rename	- Node 2/101 - Alterant (NEW name)		(Changed from Chinwag)
 Delist	- Node 2/107 - Jump to the Left BBS		Inactive system
