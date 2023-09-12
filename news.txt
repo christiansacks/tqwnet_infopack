@@ -34,6 +34,7 @@ Steve Wolf from Havens BBS				@ 1337:3/139
 Tony Toon from Cortex					@ 1337:3/141
 Anthony Stump from Slate Hell BBS			@ 1337:3/143
 Michael_Schaffer from Odyssey BBS			@ 1337:3/148
+Ktulu from Insane Asylum				@ 1337:3/117
 
 
 .---------------------.
@@ -122,28 +123,29 @@ Jeff Earle from Mystic Reals				@ 1337:3/163
 Andrew Haworth from Alcoholiday				@ 1337:3/164
 Keith Cunningham from Blackfair's Manor			@ 1337:3/165
 Brian Klauss from 42bytes				@ 1337:3/166
-Andrew Pamment / The Positronic Brain			@ 1337:2/105
-Bob Purdon / TassieBob BBS				@ 1337:2/106
-Lee Westlake / Taliadon BBS				@ 1337:1/116
-Clive Reuben / oNyX bBs					@ 1337:3/167
-Allen Mitchell / WarpeD SocieTy				@ 1337:3/168
-Ryan Fantus / monterey					@ 1337:3/169
-Chris Manigan / Made to Raid				@ 1337:3/170
-Ryder Navi / KANSIT WHQ					@ 1337:3/171
-Scott Daniels / Altair IV BBS				@ 1337:3/172
-Mark Hartmann / Insomnia City				@ 1337:3/173
-Karl Krunc / Sinner's Haven				@ 1337:3/174
-Sebastian van der Veen / The Global Village BBS		@ 1337:1/117
-Per Gustav Ousdal / Phrenetic BBS			@ 1337:1/118
-David Sachs / Operation Ivy				@ 1337:3/175
-Vincent Macaluso / Splatter Haus			@ 1337:3/176
-Jonah Clausen / Noverdu BBS				@ 1337:3/177
-Kurt Weiske / realitycheckBBS				@ 1337:3/178
-Mike Newkirk / Westwood BBS				@ 1337:3/179
-John G / CrNet BBS					@ 1337:3/180
-Jeffrey Benshoff / Penguin BBS				@ 1337:3/181
-Shaun Ewing / Mortal BBS				@ 1337:2/108
-Jim Nessen / CCX BBS					@ 1337:3/182
-Nigel Reed / End Of The Line BBS			@ 1337:3/183
-Dave Weissinger // Port of Call BBS			@ 1337:3/184
-Matt Ianson // Retroverse				@ 1337:2/109
+Andrew Pamment from The Positronic Brain		@ 1337:2/105
+Bob Purdon from TassieBob BBS				@ 1337:2/106
+Lee Westlake from Taliadon BBS				@ 1337:1/116
+Clive Reuben from oNyX bBs				@ 1337:3/167
+Allen Mitchell from WarpeD SocieTy			@ 1337:3/168
+Ryan Fantus from monterey				@ 1337:3/169
+Chris Manigan from Made to Raid				@ 1337:3/170
+Ryder Navi from KANSIT WHQ				@ 1337:3/171
+Scott Daniels from Altair IV BBS			@ 1337:3/172
+Mark Hartmann from Insomnia City			@ 1337:3/173
+Karl Krunc from Sinner's Haven				@ 1337:3/174
+Sebastian van der Veen from The Global Village BBS	@ 1337:1/117
+Per Gustav Ousdal from Phrenetic BBS			@ 1337:1/118
+David Sachs from Operation Ivy				@ 1337:3/175
+Vincent Macaluso from Splatter Haus			@ 1337:3/176
+Jonah Clausen from Noverdu BBS				@ 1337:3/177
+Kurt Weiske from realitycheckBBS			@ 1337:3/178
+Mike Newkirk from Westwood BBS				@ 1337:3/179
+John G from CrNet BBS					@ 1337:3/180
+Jeffrey Benshoff from Penguin BBS			@ 1337:3/181
+Shaun Ewing from Mortal BBS				@ 1337:2/108
+Jim Nessen from CCX BBS					@ 1337:3/182
+Nigel Reed from End Of The Line BBS			@ 1337:3/183
+Dave Weissinger from Port of Call BBS			@ 1337:3/184
+Matt Ianson from Retroverse				@ 1337:2/109
+Martin Kazmaier from Shurato's Heavenly Sphere		@ 1337:3/185
