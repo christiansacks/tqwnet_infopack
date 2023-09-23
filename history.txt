@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2023-09-23
+Added	- Node 3/186 - Mystic Hobbies BBS		(US) - Welcome Mike Dippel :)
+
 2023-09-11
 Delist	- Node 3/117 - Insane Asylum			Inactive system
 Added	- Node 3/185 - Shurato's Heavenly Sphere	(US) - Welcome Martin Kazmaier :)
