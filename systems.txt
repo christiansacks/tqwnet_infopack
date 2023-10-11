@@ -120,3 +120,4 @@ NET 3 (1337:3/xxx)
 184 Port of Call BBS			Dave Weissinger		bbs.pctechdr.com:2323
 185 Shurato's Heavenly Sphere		Martin Kazmaier		shsbbs.net
 186 Mystic Hobbies BBS			Mike Dippel		mystic-hobbies.com
+187 The Hobby Line! BBS			Mike Dippel		hobbylinebbs.com
