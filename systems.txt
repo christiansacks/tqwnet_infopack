@@ -121,3 +121,4 @@ NET 3 (1337:3/xxx)
 185 Shurato's Heavenly Sphere		Martin Kazmaier		shsbbs.net
 186 Mystic Hobbies BBS			Mike Dippel		mystic-hobbies.com
 187 The Hobby Line! BBS			Mike Dippel		hobbylinebbs.com
+188 The FBO				Charles Blackburn	bbs.thefbo.us:2323
