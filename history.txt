@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2024-01-02
+Removed	- Node 3/169 - Monterey BBS
+
 2023-11-27
 Added	- Node 3/190 - Digital Asylum BBS		(AR) - Welcome Damian Kleiman :)
 
@@ -104,7 +107,7 @@ Added	- Node 3/171 - Kansit WHQ			(CA) - Welcome Ryder Navi :)
 Added	- Node 3/170 - Made to Raid			(US) - Welcome Chris Manigan :)
 
 2022-10-21
-Added	- Node 3/169 - monterey				(US) - Welcome Ryan Fantus :)
+Added	- Node 3/169 - Monterey				(US) - Welcome Ryan Fantus :)
 
 2022-09-05
 Added	- Node 3/168 - WarpeD SocieTy			(US) - Welcome Allen Mitchell :)

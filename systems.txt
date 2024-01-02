@@ -102,7 +102,7 @@ NET 3 (1337:3/xxx)
 166 42bytes				Brian Klauss		42bytes.net
 167 oNyX bBs				Clive Reuben		onyxbbs.mywire.org:2300
 168 WarpeD SocieTy			Allen Mitchell		-unpublished-
-169 monterey				Ryan Fantus		montereybbs.com
+169 DELISTED: monterey			Ryan Fantus		montereybbs.com
 170 Made to Raid			Chris Manigan		bbs.madetoraid.com:2323
 171 KANSIT WHQ				Ryder Navi		whq.kansit.com
 172 Altair IV BBS			Scott Daniels		altairiv.ddns.net:2323
