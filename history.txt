@@ -16,7 +16,7 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 
 >> Further history to be added as time permits <<
 2024-02-24
-Added	- Node 3/191 - Plantir BBS			(US) - Welcome Dan Clough :)
+Added	- Node 3/191 - Palantir BBS			(US) - Welcome Dan Clough :)
 
 2024-01-02
 Removed	- Node 3/169 - Monterey BBS
