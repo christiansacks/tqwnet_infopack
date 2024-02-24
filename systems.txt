@@ -124,3 +124,4 @@ NET 3 (1337:3/xxx)
 188 The FBO				Charles Blackburn	bbs.thefbo.us:2323
 189 SiliconUnderground			Jason Bock		siliconu.com
 190 Digital Asylum BBS			Damian Kleiman		bbs.digitalasylum.com.ar:2323
+191 Plantir BBS				Dan Clough		palantirbbs.ddns.net
