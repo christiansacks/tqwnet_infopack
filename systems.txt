@@ -125,3 +125,4 @@ NET 3 (1337:3/xxx)
 189 SiliconUnderground			Jason Bock		siliconu.com
 190 Digital Asylum BBS			Damian Kleiman		bbs.digitalasylum.com.ar:2323
 191 Palantir BBS			Dan Clough		palantirbbs.ddns.net
+192 Final Zone BBS			Chris Eldridge		final-zone.net
