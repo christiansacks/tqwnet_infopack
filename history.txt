@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2024-04-30
+Added	- Node 1/121 - Postbus 7			(NL) - Welcome Floris van Unen :)
+
 2024-03-21
 Added	- Node 1/120 - Retro32				(UK) - Welcome Darren Kenney :)
 
