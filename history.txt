@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2024-06-07
+Added	- Node 3/193 - NerdRage BBS			(CA) - Welcome Jim Howarth :)
+
 2024-04-30
 Added	- Node 1/121 - Postbus 7			(NL) - Welcome Floris van Unen :)
 
