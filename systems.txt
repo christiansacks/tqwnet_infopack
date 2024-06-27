@@ -2,130 +2,131 @@
              --- tqwNet connected Systems as of 2022-02-18 ---
 
 
-==================================================================================
-Node BBS Name				Sysop			Address    
-==================================================================================
+==============================================================================================
+Node BBS Name				Sysop				Address    
+==============================================================================================
 
 NET 1 (1337:1/xxx)
 
-100 tqwNet UK HUB			Christian Sacks		hub.uk.erb.pw:24556
-101 The Quantum Wormhole		Christian Sacks		bbs.erb.pw
-102 Kuehlbox				Philipp Giebel		kuehlbox.wtf
-103 HB3NOS				Henk Blanken		62.238.86.72
-104 FuNToPia				Stephan Gebbers		funtopia.ddnss.eu:2023
-105 TechNoir				Runner Seven		technoir.panthermodern.net:723
-106 -.sOUNDGARDEn.-			Marco Reparon		* Private *
-107 Sonic BBS				Louis Northmore		bbs.sonicbbs.co.uk
-108 Imzadi Box				Anna Christina Nass	box.imzadi.de
-109 TheForze				Robbert Langezaal	bbs.opicron.eu
-110 TFSI				Nick Young		bbs.tfsi.dev
-111 BeBeeS				Milan Minic		gopher.su:1234
-112 Roon's BBS				Daniel Path		bbs.studio64.hu:1212
-113 Stealthworld BBS			Arjen Schumacher	stealthworld.tk:2023
-114 Silent Chat BBS			Michael Mrak		fidobbs.mrak.at
-115 Bodax BBS				Tobias Rosenqvist	bbs.beardy.se
-116 Taliadon BBS			Lee Westlake		taliadon.ddns.net
-117 The Global Village BBS		Sebastian van der Veen	* Private *
-118 Phrenetic BBS			Per Gustav Ousdal	bbs.phrenetic.no:2023
-119 Global Chaos BBS			Michael Selhof		globalchaosbbs.com
-120 Retro32				Darren Kenney		bbs.retro32.com:1337
-121 Postbus 7				Floris van Unen		* Private *
-201 dYslExIc dOnkEy			Christian Sacks		dydo.erb.pw:1337
-202 PiMP BBS				Christian Sacks		pimpbbs.erb.pw:18023
+100 tqwNet UK HUB			Christian Sacks			hub.uk.erb.pw:24556
+101 The Quantum Wormhole		Christian Sacks			bbs.erb.pw
+102 Kuehlbox				Philipp Giebel			kuehlbox.wtf
+103 HB3NOS				Henk Blanken			62.238.86.72
+104 FuNToPia				Stephan Gebbers			funtopia.ddnss.eu:2023
+105 TechNoir				Runner Seven			technoir.panthermodern.net:723
+106 -.sOUNDGARDEn.-			Marco Reparon			* Private *
+107 Sonic BBS				Louis Northmore			bbs.sonicbbs.co.uk
+108 Imzadi Box				Anna Christina Nass		box.imzadi.de
+109 TheForze				Robbert Langezaal		bbs.opicron.eu
+110 TFSI				Nick Young			bbs.tfsi.dev
+111 BeBeeS				Milan Minic			gopher.su:1234
+112 Roon's BBS				Daniel Path			bbs.studio64.hu:1212
+113 Stealthworld BBS			Arjen Schumacher		stealthworld.tk:2023
+114 Silent Chat BBS			Michael Mrak			fidobbs.mrak.at
+115 Bodax BBS				Tobias Rosenqvist		bbs.beardy.se
+116 Taliadon BBS			Lee Westlake			taliadon.ddns.net
+117 The Global Village BBS		Sebastian van der Veen		* Private *
+118 Phrenetic BBS			Per Gustav Ousdal		bbs.phrenetic.no:2023
+119 Global Chaos BBS			Michael Selhof			globalchaosbbs.com
+120 Retro32				Darren Kenney			bbs.retro32.com:1337
+121 Postbus 7				Floris van Unen			* Private *
+201 dYslExIc dOnkEy			Christian Sacks			dydo.erb.pw:1337
+202 PiMP BBS				Christian Sacks			pimpbbs.erb.pw:18023
 
 
 NET 2 (1337:2/xxx)
 
-100 tqwNet AU HUB			Deon George		hub.au.erb.pw:24554
-101 Alterant				Deon George		alterant.bbs.dege.au:10023
-102 DELISTED				DELISTED		DELISTED
-103 Freeway BBS				Tony Langdon		freeway.vkradio.com
-104 Al's Geek Lab			Alistair Ross		bbs.alsgeeklab.com:2323
-105 The Positronic Brain		Andrew Pamment		positronicbrain.net:11892
-106 TassieBob BBS			Bob Purdon		bbs.tassiebob.com:2323
-108 Mortal BBS				Shaun Ewing		bbs.mortalbbs.com
-109 Retroverse				Matt Ianson		bbs.retroverse.au
+100 tqwNet AU HUB			Deon George			hub.au.erb.pw:24554
+101 Alterant				Deon George			alterant.bbs.dege.au:10023
+102 DELISTED				DELISTED			DELISTED
+103 Freeway BBS				Tony Langdon			freeway.vkradio.com
+104 Al's Geek Lab			Alistair Ross			bbs.alsgeeklab.com:2323
+105 The Positronic Brain		Andrew Pamment			positronicbrain.net:11892
+106 TassieBob BBS			Bob Purdon			bbs.tassiebob.com:2323
+108 Mortal BBS				Shaun Ewing			bbs.mortalbbs.com
+109 Retroverse				Matt Ianson			bbs.retroverse.au
 
 
 NET 3 (1337:3/xxx)
 
-100 tqwNet CA HUB			Christian Sacks		hub.ca.erb.pw:24554
-102 The Wrong Number ][			Al DeRosa		wn2.duckdns.org
-103 Capitol City Online			Mike Powell		capitolcityonline.net
-104 CIA Amiga BBS			Tim Grooms		ciaamigabbs.dynu.net
-105 Battlestar_BBS			Mark Iezzi		battlestarbbs.dyndns.org
-106 The Bottomless Abyss BBS		Dave Cloutier		bbs.bottomlessabyss.net
-107 Necronomicon BBS			Carlos Roldan		necrobbs.strangled.net
-108 LostCause Halfway House BBS		Ernest J Gainey III	bbs.lostcause.house
-111 Castle Rock BBS			Dan Richter		bbs.castlerockbbs.com
-113 Raiders Inc BBS			Jon Justvig		vintagebbsing.com
-115 Freeside BBS			Marty Taylor		freeside.bbs.io
-116 V'Ger_BBS				Bradley Thornton	vger.cloud
-117 Insane_Asylum			Ktulu			* Private *
-119 Deadbeatz_BBS			Timothy Blada		deadbeatz.org
-121 SpaceSST_BBS			Luc McCarragher		mccarragher.org
-122 Dreambuilders			Hauns Froehlingsdorf	dreambuilders.fros.com:6800
-123 The Drunken Gamer			Robbie Whiting		thedrunkengamer.com:8888
-125 Physics				Jesse Cussins		bulletinboard.systems
-126 Northern Realms			Jay Harris		bbs.nrbbs.net
-127 The Unknown Realm			Mike McCafferty		turealm.no-ip.org:3023
-129 20 For Beers			Paul Lee		20ForBeers.com:1337
-130 Pweck's Retreat			Dean Lodge		pwecksretreat.com
-131 The Search BBS			Karl Harris		bbs.theharrisclan.net:34123
-132 The Underground			Doug Cooper		www.theunderground.us:10023
-134 Gray Matter BBS			Greg Youngblood		graymatterbbs.com:2323
-135 Halls of Valhalla			Morgan Collins		hovalbbs.com:2333
-136 Inner Realm BBS			Michael Long		innerrealmbbs.us
-137 The Ghetto BBS			Greg Youngblood		theghettobbs.com:2323
-138 Point Of No Return			Mark De Silva		pointofnoreturn.zapto.org:2323
-140 Rust Belt BBS			Kevin Miller		rbbbs.mtonetwork.com
-142 Dark Systems BBS			Aaron Grasswell		bbs.dsbbs.ca
-144 Buckeye Telegraph			Dean Galloway		n/a
-145 Ground Control			Matthew Blocker		gcbbs.duckdns.org:2323
-146 Lunatics Unleashed			Ross Branham		lunaticsunleashed.ddns.net
-147 Error404 BBS			Todd Zieman		error404bbs.ddns.net:404
-149 The Undermine			Kostie Muirhead		bbs.undermine.ca
-150 ConstructiveChaos BBS		Craig Hendricks		conchaos.synchro.net
-151 Spot BBS				Steve Weinert		spotbbs.k9zw.com:1123
-152 Shipwrecks & Shibboleths		Chris Hizny		shibboleths.org:800
-153 Crewmate's Test Lab			Mike Edwards		ctl.crewmate.tech:7357
-154 pLANET cARAVAN BBS			Kevin Blalock		lab.zylone.org
-155 Nightvault				Fang Castro		tos.synchronetbbs.org:2323
-156 Shadowscope				Richard Miles		bbs.shadowscope.com
-157 The Ruins				JaXson			theruins.ddns.net:9707
-158 Hive32				Luke Galutia		bbs.hive32.com:23333
-159 Archaic Binary			Wayne Smith		bbs.archaicbinary.net
-160 Battlestar Pegasus			Mark Iezzi		pegasusbbs.dyndns.org
-161 Cheshire Underground		Jon Martin		bbs.cheshirezine.com:6502
-162 Angstridden				Steve Layton		angstridden.net:1337
-163 Mystic Realms			Jeff Earle		mysticrealms.ddns.net:11000
-164 Alcoholiday				Andrew Haworth		alco.bbs.io
-165 Blackfair's Manor			Keith Cunningham	blackf.synchro.net
-166 42bytes				Brian Klauss		42bytes.net
-167 oNyX bBs				Clive Reuben		onyxbbs.mywire.org:2300
-168 WarpeD SocieTy			Allen Mitchell		-unpublished-
-169 DELISTED: monterey			Ryan Fantus		montereybbs.com
-170 Made to Raid			Chris Manigan		bbs.madetoraid.com:2323
-171 KANSIT WHQ				Ryder Navi		whq.kansit.com
-172 Altair IV BBS			Scott Daniels		altairiv.ddns.net:2323
-173 Insomnia City			Mark Hartmann		bbs.farcasternet.org
-174 Sinner's Haven			Karl Krunc		bbs.sinnershaven.com
-175 Operation Ivy			David Sachs		opivy-bbs.com
-176 Splatter Haus			Vincent Macaluso	splatter.haus:666
-177 Noverdu BBS				Jonah Clausen		noverdu.com
-178 realitycheckBBS			Kurt Weiske		realitycheckbbs.org
-179 Westwood BBS			Mike Newkirk		westwoodbbs.net:8888
-180 CrNet BBS				John G			bbs.crnet.net:1023
-181 Penguin BBS				Jeffrey Benshoff	penguin.synchro.net
-182 CCX BBS				Jim Nessen		96.43.142.180
-183 End Of The Line BBS			Nigel Reed		endofthelinebbs.com
-184 Port of Call BBS			Dave Weissinger		bbs.pctechdr.com:2323
-185 Shurato's Heavenly Sphere		Martin Kazmaier		shsbbs.net
-186 Mystic Hobbies BBS			Mike Dippel		mystic-hobbies.com
-187 The Hobby Line! BBS			Mike Dippel		hobbylinebbs.com
-188 The FBO				Charles Blackburn	bbs.thefbo.us:2323
-189 SiliconUnderground			Jason Bock		siliconu.com
-190 Digital Asylum BBS			Damian Kleiman		bbs.digitalasylum.com.ar:2323
-191 Palantir BBS			Dan Clough		palantirbbs.ddns.net
-192 Final Zone BBS			Chris Eldridge		final-zone.net
-193 NerdRage BBS			Jim Howarth		nerdragebbs.ddns.net
+100 tqwNet CA HUB			Christian Sacks			hub.ca.erb.pw:24554
+102 The Wrong Number ][			Al DeRosa			wn2.duckdns.org
+103 Capitol City Online			Mike Powell			capitolcityonline.net
+104 CIA Amiga BBS			Tim Grooms			ciaamigabbs.dynu.net
+105 Battlestar_BBS			Mark Iezzi			battlestarbbs.dyndns.org
+106 The Bottomless Abyss BBS		Dave Cloutier			bbs.bottomlessabyss.net
+107 Necronomicon BBS			Carlos Roldan			necrobbs.strangled.net
+108 LostCause Halfway House BBS		Ernest J Gainey III		bbs.lostcause.house
+111 Castle Rock BBS			Dan Richter			bbs.castlerockbbs.com
+113 Raiders Inc BBS			Jon Justvig			vintagebbsing.com
+115 Freeside BBS			Marty Taylor			freeside.bbs.io
+116 V'Ger_BBS				Bradley Thornton		vger.cloud
+117 Insane_Asylum			Ktulu				* Private *
+119 Deadbeatz_BBS			Timothy Blada			deadbeatz.org
+121 SpaceSST_BBS			Luc McCarragher			mccarragher.org
+122 Dreambuilders			Hauns Froehlingsdorf		dreambuilders.fros.com:6800
+123 The Drunken Gamer			Robbie Whiting			thedrunkengamer.com:8888
+125 Physics				Jesse Cussins			bulletinboard.systems
+126 Northern Realms			Jay Harris			bbs.nrbbs.net
+127 The Unknown Realm			Mike McCafferty			turealm.no-ip.org:3023
+129 20 For Beers			Paul Lee			20ForBeers.com:1337
+130 Pweck's Retreat			Dean Lodge			pwecksretreat.com
+131 The Search BBS			Karl Harris			bbs.theharrisclan.net:34123
+132 The Underground			Doug Cooper			www.theunderground.us:10023
+134 Gray Matter BBS			Greg Youngblood			graymatterbbs.com:2323
+135 Halls of Valhalla			Morgan Collins			hovalbbs.com:2333
+136 Inner Realm BBS			Michael Long			innerrealmbbs.us
+137 The Ghetto BBS			Greg Youngblood			theghettobbs.com:2323
+138 Point Of No Return			Mark De Silva			pointofnoreturn.zapto.org:2323
+140 Rust Belt BBS			Kevin Miller			rbbbs.mtonetwork.com
+142 Dark Systems BBS			Aaron Grasswell			bbs.dsbbs.ca
+144 Buckeye Telegraph			Dean Galloway			n/a
+145 Ground Control			Matthew Blocker			gcbbs.duckdns.org:2323
+146 Lunatics Unleashed			Ross Branham			lunaticsunleashed.ddns.net
+147 Error404 BBS			Todd Zieman			error404bbs.ddns.net:404
+149 The Undermine			Kostie Muirhead			bbs.undermine.ca
+150 ConstructiveChaos BBS		Craig Hendricks			conchaos.synchro.net
+151 Spot BBS				Steve Weinert			spotbbs.k9zw.com:1123
+152 Shipwrecks & Shibboleths		Chris Hizny			shibboleths.org:800
+153 Crewmate's Test Lab			Mike Edwards			ctl.crewmate.tech:7357
+154 pLANET cARAVAN BBS			Kevin Blalock			lab.zylone.org
+155 Nightvault				Fang Castro			tos.synchronetbbs.org:2323
+156 Shadowscope				Richard Miles			bbs.shadowscope.com
+157 The Ruins				JaXson				theruins.ddns.net:9707
+158 Hive32				Luke Galutia			bbs.hive32.com:23333
+159 Archaic Binary			Wayne Smith			bbs.archaicbinary.net
+160 Battlestar Pegasus			Mark Iezzi			pegasusbbs.dyndns.org
+161 Cheshire Underground		Jon Martin			bbs.cheshirezine.com:6502
+162 Angstridden				Steve Layton			angstridden.net:1337
+163 Mystic Realms			Jeff Earle			mysticrealms.ddns.net:11000
+164 Alcoholiday				Andrew Haworth			alco.bbs.io
+165 Blackfair's Manor			Keith Cunningham		blackf.synchro.net
+166 42bytes				Brian Klauss			42bytes.net
+167 oNyX bBs				Clive Reuben			onyxbbs.mywire.org:2300
+168 WarpeD SocieTy			Allen Mitchell			-unpublished-
+169 DELISTED: monterey			Ryan Fantus			montereybbs.com
+170 Made to Raid			Chris Manigan			bbs.madetoraid.com:2323
+171 KANSIT WHQ				Ryder Navi			whq.kansit.com
+172 Altair IV BBS			Scott Daniels			altairiv.ddns.net:2323
+173 Insomnia City			Mark Hartmann			bbs.farcasternet.org
+174 Sinner's Haven			Karl Krunc			bbs.sinnershaven.com
+175 Operation Ivy			David Sachs			opivy-bbs.com
+176 Splatter Haus			Vincent Macaluso		splatter.haus:666
+177 Noverdu BBS				Jonah Clausen			noverdu.com
+178 realitycheckBBS			Kurt Weiske			realitycheckbbs.org
+179 Westwood BBS			Mike Newkirk			westwoodbbs.net:8888
+180 CrNet BBS				John G				bbs.crnet.net:1023
+181 Penguin BBS				Jeffrey Benshoff		penguin.synchro.net
+182 CCX BBS				Jim Nessen			96.43.142.180
+183 End Of The Line BBS			Nigel Reed			endofthelinebbs.com
+184 Port of Call BBS			Dave Weissinger			bbs.pctechdr.com:2323
+185 Shurato's Heavenly Sphere		Martin Kazmaier			shsbbs.net
+186 Mystic Hobbies BBS			Mike Dippel			mystic-hobbies.com
+187 The Hobby Line! BBS			Mike Dippel			hobbylinebbs.com
+188 The FBO				Charles Blackburn		bbs.thefbo.us:2323
+189 SiliconUnderground			Jason Bock			siliconu.com
+190 Digital Asylum BBS			Damian Kleiman			bbs.digitalasylum.com.ar:2323
+191 Palantir BBS			Dan Clough			palantirbbs.ddns.net
+192 Final Zone BBS			Chris Eldridge			final-zone.net
+193 NerdRage BBS			Jim Howarth			nerdragebbs.ddns.net
+194 Too Lazy BBS			Granville Errol Casey, Jr.	toolazy.ddns.net
