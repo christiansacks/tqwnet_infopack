@@ -162,3 +162,4 @@ Darren Kenney						@ 1337:1/120
 Floris van Unen from Postbus 7				@ 1337:1/121
 Jim Howarth from NerdRage BBS				@ 1337:3/193
 Granville Errol Casey, Jr. from Too Lazy BBS		@ 1337:3/194
+Alessio Tempesta from NetPoint				@ 1337:1/122
