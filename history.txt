@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2024-07-30
+Added	- Node 3/195 - 4wheelham BBS			(US) - Weldome John Julian :)
+
 2024-07-22
 Added	- Node 1/122 - NetPoint				(IT) - Welcome Alessio Tempesta :)
 

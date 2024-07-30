@@ -131,3 +131,4 @@ NET 3 (1337:3/xxx)
 192 Final Zone BBS			Chris Eldridge			final-zone.net
 193 NerdRage BBS			Jim Howarth			nerdragebbs.ddns.net
 194 Too Lazy BBS			Granville Errol Casey, Jr.	toolazy.ddns.net
+195 4wheelham BBS			John Julian			bbs.4wheelham.com
