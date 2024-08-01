@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2024-08-01
+Added	- Node 3/196 - Local Yocal BBS			(US) - Welcome Mark Meserve :)
+
 2024-07-30
 Added	- Node 3/195 - 4wheelham BBS			(US) - Weldome John Julian :)
 
