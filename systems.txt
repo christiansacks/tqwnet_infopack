@@ -133,3 +133,4 @@ NET 3 (1337:3/xxx)
 194 Too Lazy BBS			Granville Errol Casey, Jr.	toolazy.ddns.net
 195 4wheelham BBS			John Julian			bbs.4wheelham.com
 196 Local Yocal BBS			Mark Meserve			localyocalbbs.com
+197 Rise n' Shine BBS			Rob Olsen			rns.risenshinebbs.com

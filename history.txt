@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2024-08-05
+Added	- Node 3/197 - Rise n' Shine BBS		(US) - Welcome Rob Olsen :)
+
 2024-08-01
 Added	- Node 3/196 - Local Yocal BBS			(US) - Welcome Mark Meserve :)
 
