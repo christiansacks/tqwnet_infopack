@@ -134,3 +134,4 @@ NET 3 (1337:3/xxx)
 195 4wheelham BBS			John Julian			bbs.4wheelham.com
 196 Local Yocal BBS			Mark Meserve			localyocalbbs.com
 197 Rise n' Shine BBS			Rob Olsen			rns.risenshinebbs.com
+198 Uncomfortable Business		Cashan Stine			bbs.uncomfortable.business
