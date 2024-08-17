@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2024-08-17
+Added	- Node 3/199 - Vintage Pi BBS			(CA) - Welcome Lloyd Alexandre :)
+
 2024-08-08
 Added	- Node 3/198 - Uncomfortable Business		(US) - Welcome Cashan Stine :)
 
