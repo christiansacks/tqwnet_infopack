@@ -17,6 +17,7 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 >> Further history to be added as time permits <<
 2024-09-02
 Added	- Node 3/200 - Exotica BBS			(US) - Welcome Greg Youngblood :)
+Added	- Node 3/201 - HeXeD				(US) - Welcome Mitch Greive :)
 
 2024-08-17
 Added	- Node 3/199 - Vintage Pi BBS			(CA) - Welcome Lloyd Alexandre :)
@@ -472,6 +473,6 @@ Added   - Node 2/100 - tqwNet HUB			(AU) - Hosted by Deon George
 
 2018-08-26
 Added   - Node 1/102 - The Rusty Mail Box   		(CA) - Welcome Alan Ianson! :)
-Added   - Node 1/101 - The Quantum Wormhole		(UK)
+Added   - Node 1/101 - tHE qUAntUm wOrmhOlE		(UK)
 Added   - Node 1/100 - tqwNet HUB			(UK) - tqwNet is born using Zone 1337!
 ==================================================================================================
