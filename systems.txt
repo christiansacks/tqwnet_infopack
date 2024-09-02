@@ -136,3 +136,4 @@ NET 3 (1337:3/xxx)
 197 Rise n' Shine BBS			Rob Olsen			rns.risenshinebbs.com
 198 Uncomfortable Business		Cashan Stine			bbs.uncomfortable.business
 199 Vintage Pi BBS			Lloyd Alexandre			vintagepi.asuscomm.com
+200 Exotica BBS				Greg Youngblood			exoticabbs.com:8888
