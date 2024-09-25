@@ -139,3 +139,4 @@ NET 3 (1337:3/xxx)
 200 Exotica BBS				Greg Youngblood			exoticabbs.com:8888
 201 HeXeD				Mitch Greive			hexedbbs.com:23999
 202 MicroBurst II BBS			Stacy Caudle			microbur.synchro.net:26
+203 Cabana Bar BBS			Matt Webster			bbs.cabanabar.net:11123

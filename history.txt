@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2024-09-25
+Added	- Node 3/203 - Cabana Bar BBS			(US) - Welcome Matt Webster :)
+
 2024-09-23
 Added	- Node 3/202 - MicroBurst II BBS		(US) - Welcome Stacy Caudle :)
 
