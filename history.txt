@@ -15,6 +15,10 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2024-09-27
+Added	- Node 3/204 - lopht				(US) - This is Mitch's (Scuz's) 2nd BBS
+							       Welcome Mitch Greive (again) :)
+
 2024-09-25
 Added	- Node 3/203 - Cabana Bar BBS			(US) - Welcome Matt Webster :)
 
