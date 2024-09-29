@@ -141,3 +141,4 @@ NET 3 (1337:3/xxx)
 202 MicroBurst II BBS			Stacy Caudle			microbur.synchro.net:26
 203 Cabana Bar BBS			Matt Webster			bbs.cabanabar.net:11123
 204 lopht				Mitch Greive			lopht.hexedbbs.com:1337
+205 RayzerNET BBS			Jonathan Hohimer		connect.rayzer.net:2112
