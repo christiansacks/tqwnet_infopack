@@ -143,3 +143,4 @@ NET 3 (1337:3/xxx)
 204 lopht				Mitch Greive			lopht.hexedbbs.com:1337
 205 RayzerNET BBS			Jonathan Hohimer		connect.rayzer.net:2112
 206 A-Net Online			Stingray			a-net-online.lol
+207 Mystic A-Net Online			Stingray			mystic.a-net-online.lol
