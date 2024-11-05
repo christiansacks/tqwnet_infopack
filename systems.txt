@@ -144,3 +144,4 @@ NET 3 (1337:3/xxx)
 205 RayzerNET BBS			Jonathan Hohimer		connect.rayzer.net:2112
 206 A-Net Online			Stingray			a-net-online.lol
 207 Mystic A-Net Online			Stingray			mystic.a-net-online.lol
+208 Dark Matter BBS			Will Milberger			darkmatt.synchro.net

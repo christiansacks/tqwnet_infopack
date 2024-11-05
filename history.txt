@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2024-11-05
+Added	- Node 3/208 - Dark Matter BBS			(US) - Welcome Will Milberger :)
+
 2024-10-21
 Added	- Node 3/207 - Mystic A-Net Online		(US) - Welcome Stingray's other BBS :)
 
