@@ -145,3 +145,4 @@ NET 3 (1337:3/xxx)
 206 A-Net Online			Stingray			a-net-online.lol
 207 Mystic A-Net Online			Stingray			mystic.a-net-online.lol
 208 Dark Matter BBS			Will Milberger			darkmatt.synchro.net
+209 4d2 dot org				Sarah Proctor			bbs.4d2.org
