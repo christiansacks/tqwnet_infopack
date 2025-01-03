@@ -101,7 +101,7 @@ For anything that's not applicable below, please state "NA".
 Thanks for your interest.
 
 An infopack is always available from www.erb.pw/tqwinfo.zip or alternatively
-The Quantum Wormhole BBS via telnet to bbs.erb.pw
+thE qUAntUm wOrmhOlE via telnet to bbs.erb.pw
 
 --------------Delete the above and send the application below-------------------
 
@@ -117,8 +117,9 @@ The Quantum Wormhole BBS via telnet to bbs.erb.pw
     Website URL.........:
     Email Address.......:
     Mail tosser.........:
-    Areafix Password....:
-    Filefix Password....:
+    FIX Password........:
+    TIC Password........:
+    PKT Password........:
 
 Do you have a static IP address? If you do, please state your IP details below.
 This will ensure your node is whitelisted so it will not be auto-blocked by
@@ -134,9 +135,10 @@ Your BinkP details
 
         BinkP
 
-        Session Password:
-        Binkp address...:
-	Crash or Hold...:
+        Session Password..:
+        Binkp address.....:
+	Crash or Hold.....:
+        Private node (y/n):
 
         
 ===== END OF APPLICATION =======================================================
