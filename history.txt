@@ -15,6 +15,10 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2025-01-14
+Added	- Node 3/211 - N4TDX BBS			(US) - Welcome Ricky DeLuco, and thanks
+							       For adding a 2nd BBS to our net!
+
 2025-01-03
 Added	- Node 3/210 - Mystic River BBS			(US) - Welcome Ricky DeLuco, and Happy
 							       New Year! :)
