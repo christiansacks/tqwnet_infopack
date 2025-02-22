@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2025-02-22
+Added	- Node 3/212 - Air & Wave BBS			(US) - Welcome Daniel Traechin :)
+
 2025-01-14
 Added	- Node 3/211 - N4TDX BBS			(US) - Welcome Ricky DeLuco, and thanks
 							       For adding a 2nd BBS to our net!

@@ -148,3 +148,4 @@ NET 3 (1337:3/xxx)
 209 4d2 dot org				Sarah Proctor			bbs.4d2.org
 210 Mystic River BBS			Ricky DeLuco			mysticriver.ddns.net:10023
 211 N4TDX				Ricky DeLuco			N4TDX.ddns.net:2323
+212 Air & Wave BBS			Daniel Traechin			bbs.airandwave.net:2323
