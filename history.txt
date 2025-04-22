@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2025-04-22
+Added	- Node 3/213 - Mystical Realm BBS		(US) - Welcome Craig Daters :)
+
 2025-02-22
 Added	- Node 3/212 - Air & Wave BBS			(US) - Welcome Daniel Traechin :)
 
