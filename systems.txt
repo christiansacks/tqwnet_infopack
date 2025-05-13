@@ -31,6 +31,8 @@ NET 1 (1337:1/xxx)
 120 Retro32				Darren Kenney			bbs.retro32.com:1337
 121 Postbus 7				Floris van Unen			* Private *
 122 NetPoint				Alessio Tempesta		* Private *
+123 * Private *				* Private *			* Private *
+124 Eridu				Costin Stroie			* Private *
 201 dYslExIc dOnkEy			Christian Sacks			dydo.erb.pw:1337
 202 PiMP BBS				Christian Sacks			pimpbbs.erb.pw:18023
 
