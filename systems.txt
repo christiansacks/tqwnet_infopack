@@ -152,3 +152,4 @@ NET 3 (1337:3/xxx)
 211 N4TDX				Ricky DeLuco			N4TDX.ddns.net:2323
 212 Air & Wave BBS			Daniel Traechin			bbs.airandwave.net:2323
 213 Mystical Realm BBS			Craig Daters			mysticalrealmbbs.com:1123
+214 Convolution BBS			Jonathan Schreiter		convolution.us
