@@ -46,7 +46,7 @@ tqwNet - The Quantum Wormhole - Time is an illusion here, there and everywhen
 Message Echos:
 
 TQW_ADS			- BBS Adverts
-TQW_DOCKER		- Docker Chat
+TQW_DOCKER		- Homelab Chat
 TQW_BBSGEN		- General BBS Chat
 TQW_GEN			- General Chat
 TQW_GENSCI		- General Science News
