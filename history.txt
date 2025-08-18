@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2025-08-18
+Added	- Node 3/216 - Thunder-Line BBS			(US) - Welcome Robert Thornton :)
+
 2025-07-14
 Added	- Node 3/215 - Bunker 3				(US) - Welcome Dave Scott :)
 

@@ -154,3 +154,4 @@ NET 3 (1337:3/xxx)
 213 Mystical Realm BBS			Craig Daters			mysticalrealmbbs.com:1123
 214 Convolution BBS			Jonathan Schreiter		convolution.us
 215 Bunker 3				Dave Scott			woofer.v6.rocks:8888
+216 Thunder-Line BBS			Robert Thornton			thunder.synchro.net
