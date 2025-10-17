@@ -186,3 +186,4 @@ Costin Stroie from Eridu				@ 1337:1/124
 Jonathan Schreiter from Convolution BBS			@ 1337:3/214
 Dave Scott from Bunker 3				@ 1337:3/215
 Robert Thornton from Thunder-Line BBS			@ 1337:3/216
+Evgeny Shaverin from Mcore BBS				@ 1337:1/125

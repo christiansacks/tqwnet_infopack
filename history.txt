@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2025-10-17
+Added	- Node 1/125 - Mcore BBS			(IL) - Welcome Evgeny Shaverin :)
+
 2025-08-18
 Added	- Node 3/216 - Thunder-Line BBS			(US) - Welcome Robert Thornton :)
 

@@ -33,6 +33,7 @@ NET 1 (1337:1/xxx)
 122 NetPoint				Alessio Tempesta		* Private *
 123 * Private *				* Private *			* Private *
 124 Eridu				Costin Stroie			* Private *
+125 Mcore BBS				Evgeny Shaverin			mcore.hs.vc:2323
 201 dYslExIc dOnkEy			Christian Sacks			dydo.erb.pw:1337
 202 PiMP BBS				Christian Sacks			pimpbbs.erb.pw:18023
 
