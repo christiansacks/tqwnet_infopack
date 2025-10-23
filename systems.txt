@@ -12,7 +12,7 @@ NET 1 (1337:1/xxx)
 101 The Quantum Wormhole		Christian Sacks			bbs.erb.pw
 102 Kuehlbox				Philipp Giebel			kuehlbox.wtf
 103 HB3NOS				Henk Blanken			62.238.86.72
-104 FuNToPia				Stephan Gebbers			funtopia.ddnss.eu:2023
+104 FuNToPia				Stephan Gebbers			funtopia.synchro.net:3023
 105 TechNoir				Runner Seven			technoir.panthermodern.net:723
 106 -.sOUNDGARDEn.-			Marco Reparon			* Private *
 107 Sonic BBS				Louis Northmore			bbs.sonicbbs.co.uk
