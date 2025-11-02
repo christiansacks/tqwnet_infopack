@@ -43,11 +43,11 @@ NET 2 (1337:2/xxx)
 100 tqwNet AU HUB			Deon George			hub.au.erb.pw:24554
 101 Alterant				Deon George			alterant.bbs.dege.au:10023
 102 DELISTED				DELISTED			DELISTED
-103 Freeway BBS				Tony Langdon			freeway.vkradio.com
+103 DELISTED				DELISTED			DELISTED
 104 Al's Geek Lab			Alistair Ross			bbs.alsgeeklab.com:2323
 105 The Positronic Brain		Andrew Pamment			positronicbrain.net:11892
 106 TassieBob BBS			Bob Purdon			bbs.tassiebob.com:2323
-108 Mortal BBS				Shaun Ewing			bbs.mortalbbs.com
+108 DELISTED				DELISTED			DELISTED
 109 Retroverse				Matt Ianson			bbs.retroverse.au
 
 

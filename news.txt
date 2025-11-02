@@ -50,7 +50,6 @@ Tim from CIA Amiga BBS					@ 1337:3/104
 Mark from Battlestar BBS				@ 1337:3/105
 Dave from The Bottomless Abyss BBS			@ 1337:3/106
 Carlos from Necronomicon BBS				@ 1337:3/107
-Tony Langdon from Freeway BBS				@ 1337:2/103
 Ernest J Gainey III from LostCause Halfway House BBS	@ 1337:3/108
 Matthew Smith from The Fishingnet BBS			@ 1337:3/109
 Philipp Giebel from Kuehlbox				@ 1337:1/102
@@ -143,7 +142,6 @@ Kurt Weiske from realitycheckBBS			@ 1337:3/178
 Mike Newkirk from Westwood BBS				@ 1337:3/179
 John G from CrNet BBS					@ 1337:3/180
 Jeffrey Benshoff from Penguin BBS			@ 1337:3/181
-Shaun Ewing from Mortal BBS				@ 1337:2/108
 Jim Nessen from CCX BBS					@ 1337:3/182
 Nigel Reed from End Of The Line BBS			@ 1337:3/183
 Dave Weissinger from Port of Call BBS			@ 1337:3/184
