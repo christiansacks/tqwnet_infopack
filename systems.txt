@@ -34,6 +34,7 @@ NET 1 (1337:1/xxx)
 123 * Private *				* Private *			* Private *
 124 Eridu				Costin Stroie			* Private *
 125 Mcore BBS				Evgeny Shaverin			mcore.hs.vc:2323
+126 Citrick BBS				Tanausu Martin Gonzalez		wilco.ydns.eu:2300
 201 dYslExIc dOnkEy			Christian Sacks			dydo.erb.pw:1337
 202 PiMP BBS				Christian Sacks			pimpbbs.erb.pw:18023
 
