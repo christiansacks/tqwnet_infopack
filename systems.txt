@@ -157,3 +157,4 @@ NET 3 (1337:3/xxx)
 214 Convolution BBS			Jonathan Schreiter		convolution.us
 215 Bunker 3				Dave Scott			woofer.v6.rocks:8888
 216 Thunder-Line BBS			Robert Thornton			thunder.synchro.net
+217 No Carrier BBS			Scott Tompkins			bbs.dn42
