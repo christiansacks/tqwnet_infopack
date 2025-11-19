@@ -187,3 +187,4 @@ Robert Thornton from Thunder-Line BBS			@ 1337:3/216
 Evgeny Shaverin from Mcore BBS				@ 1337:1/125
 Tanausu Martin Gonzalez from Citrick BBS		@ 1337:1/126
 Scott Tompkins from No Carrier BBS			@ 1337:3/217
+Brian Scott from The Ham Shack BBS			@ 1337:3/218
