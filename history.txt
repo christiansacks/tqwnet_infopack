@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2025-11-26
+Added	- Node 1/127 - Who Dares Wins Amiga BBS		(UK) - Welcome Andrew Ward :)
+
 2025-11-19
 Added	- Node 3/218 - The Ham Shack BBS		(US) - Welcome Brian Scott :)
 
