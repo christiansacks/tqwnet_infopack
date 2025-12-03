@@ -160,3 +160,4 @@ NET 3 (1337:3/xxx)
 216 Thunder-Line BBS			Robert Thornton			thunder.synchro.net
 217 No Carrier BBS			Scott Tompkins			bbs.dn42
 218 The Ham Shack BBS			Brian Scott			hamshack.synchro.net
+219 WINCOR Systems BBS			Arson Gear			* Private *
