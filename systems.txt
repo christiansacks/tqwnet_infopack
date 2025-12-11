@@ -161,3 +161,4 @@ NET 3 (1337:3/xxx)
 217 No Carrier BBS			Scott Tompkins			bbs.dn42
 218 The Ham Shack BBS			Brian Scott			hamshack.synchro.net
 219 WINCOR Systems BBS			Arson Gear			* Private *
+220 Angstridden BBS			Steve Layton			angstridden.net:1336
