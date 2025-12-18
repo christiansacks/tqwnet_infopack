@@ -189,5 +189,5 @@ Tanausu Martin Gonzalez from Citrick BBS		@ 1337:1/126
 Scott Tompkins from No Carrier BBS			@ 1337:3/217
 Brian Scott from The Ham Shack BBS			@ 1337:3/218
 Andrew Ward from Who Dares Wins Amiga BBS		@ 1337:1/127
-Arash Farnian from WINCOR Headquarters BBS			@ 1337:3/219
+Arash Farnian from WINCOR Headquarters BBS		@ 1337:3/219
 Steve Layton from Angstridden BBS			@ 1337:3/220
