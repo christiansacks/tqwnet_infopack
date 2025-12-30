@@ -163,3 +163,4 @@ NET 3 (1337:3/xxx)
 219 WINCOR Headquarters BBS		Arash Farnian			* Private *
 220 Angstridden BBS			Steve Layton			angstridden.net:1336
 221 GUILD BBS				Ryder Navi			* Private *
+222 futureland.today			HM Derdoc			futureland.today
