@@ -165,3 +165,4 @@ NET 3 (1337:3/xxx)
 221 GUILD BBS				Ryder Navi			* Private *
 222 futureland.today			HM Derdoc			futureland.today
 223 Yak Station BBS			Adam Clark			bbs.mycrowd.ca
+224 Silfen Path BBS			Petar Smilajkov			bbs.silfenpath.com
