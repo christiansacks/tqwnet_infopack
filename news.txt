@@ -196,3 +196,4 @@ HM Derdoc from futureland.today				@ 1337:3/222
 Adam Clark from Yak Station BBS				@ 1337:3/223
 Petar Smilajkov from Silfen Path BBS			@ 1337:3/224
 Rob McGee from The X-Bit BBS				@ 1337:3/225
+Ali Khadiv from WINCOR Headquarters BBS			@ 1337:1/128
