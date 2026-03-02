@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2026-02-02
+Added	- Node 3/226 - BBS PENSACOLA			(US) - Welcome James Washington :)
+
 2026-02-14
 Added	- Node 1/128 - WINCOR Headquarters BBS		(FR) - Welcome Ali Khadiv :)
 
