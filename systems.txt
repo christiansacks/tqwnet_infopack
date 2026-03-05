@@ -171,3 +171,4 @@ NET 3 (1337:3/xxx)
 226 BBS PENSACOLA			James Washington		bbs.cultofjames.org:2023
 227 The Dark Side			Gabe Harriman			bbs.mynameisgabe.com
 228 Federation Apocalypse		Harrison Gibson			fedapoc.tel:2301
+229 gemenon				Ryan Fantus			gemenon.org:2323
