@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2026-03-14
+Added	- Node 2/110 - v1ntage BBS			(AU) - Welcome Tom Aberdeen :)
+
 2026-03-05
 Added	- Node 3/229 - gemenon				(US) - Welcome Ryan Fantus :)
 

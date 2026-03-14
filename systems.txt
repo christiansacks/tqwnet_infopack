@@ -52,6 +52,7 @@ NET 2 (1337:2/xxx)
 106 TassieBob BBS			Bob Purdon			bbs.tassiebob.com:2323
 108 DELISTED				DELISTED			DELISTED
 109 Retroverse				Matt Ianson			bbs.retroverse.au
+110 v1ntage BBS				Tom Aberdeen			v1ntagebbs.net:2323
 
 
 NET 3 (1337:3/xxx)
