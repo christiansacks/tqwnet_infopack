@@ -173,3 +173,4 @@ NET 3 (1337:3/xxx)
 227 The Dark Side			Gabe Harriman			bbs.mynameisgabe.com
 228 Federation Apocalypse		Harrison Gibson			fedapoc.tel:2301
 229 gemenon				Ryan Fantus			gemenon.org:2323
+230 Claude's BBS			Matthew Asham			claudes.lovelybits.org
