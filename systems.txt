@@ -33,7 +33,7 @@ NET 1 (1337:1/xxx)
 122 NetPoint				Alessio Tempesta		* Private *
 123 * Private *				* Private *			* Private *
 124 Eridu				Costin Stroie			* Private *
-125 Mcore BBS				Evgeny Shaverin			mcore.hs.vc:2323
+125 Mcore BBS				Evgeny Shaverin			mcore.mooo.com:2323
 126 Citrick BBS				Tanausu Martin Gonzalez		wilco.ydns.eu:2300
 127 Who Dares Wins Amiga		Andrew Ward			whodareswinsbbs.uk
 128 WINCOR Headquarters BBS		Ali Khadiv			wincorhq.freeboxos.fr:1337
