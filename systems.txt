@@ -176,3 +176,4 @@ NET 3 (1337:3/xxx)
 230 Claude's BBS			Matthew Asham			claudes.lovelybits.org
 231 A-Net Online ANetBBS		StingRay			bbs.a-net.fyi:2233
 232 The Looney Bin BBS!			Pat Finnerty			looneybinbbs.com:2023
+233 Tomcat BBS				Ricky DeLuco			tomcatbbs.ddns.net:2323

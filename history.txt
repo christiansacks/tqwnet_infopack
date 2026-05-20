@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2026-05-20
+Added	- Node 3/233 - Tomcat BBS			(US) - Welcome Ricky DeLuco :)
+
 2026-05-14
 Updated	- Node 1/125 - Mcore BBS			(IL) - Updated hostname :)
 Added	- Node 3/232 - The Looney Bin BBS!		(US) - Welcome Pat Finnerty :)
