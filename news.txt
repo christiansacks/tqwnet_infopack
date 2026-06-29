@@ -207,3 +207,4 @@ StingRay from A-Net Online ANetBBS			@ 1337:3/231
 Pat Finnerty from The Looney Bin BBS!			@ 1337:3/232
 Ricky DeLuco from Tomcat BBS				@ 1337:3/233
 Brendan Short from NIGHTWIRE BBS			@ 1337:2/111
+Michel van Osenbruggen from Falcon BBS			@ 1337:1/129

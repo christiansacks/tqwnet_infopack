@@ -37,6 +37,7 @@ NET 1 (1337:1/xxx)
 126 Citrick BBS				Tanausu Martin Gonzalez		wilco.ydns.eu:2300
 127 Who Dares Wins Amiga		Andrew Ward			whodareswinsbbs.uk
 128 WINCOR Headquarters BBS		Ali Khadiv			wincorhq.freeboxos.fr:1337
+129 Falcon BBS				Michel van Osenbruggen		bbs.falconbbs.nl
 201 dYslExIc dOnkEy			Christian Sacks			dydo.erb.pw:1337
 202 PiMP BBS				Christian Sacks			pimpbbs.erb.pw:18023
 
