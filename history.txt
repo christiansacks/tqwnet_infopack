@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2026-07-16
+Added	- Node 3/235 - The Down-Lo BBS			(US) - Welcome Winzlo :)
+
 2026-06-29
 Added	- Node 3/234 - The SmallTime BBS		(US) - Welcome Firehawke :)
 Added	- Node 1/129 - Falcon BBS			(NL) - Welcome Michel van Osenbruggen :)
