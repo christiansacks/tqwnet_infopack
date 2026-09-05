@@ -185,3 +185,4 @@ NET 3 (1337:3/xxx)
 236 bbs.homes				John Lin			bbs.homes
 237 Amplicon				Jean-Jack Riethoven		amplicon-bbs.org
 238 oNyX bBs				Clive Reuben			onyxbbs.mywire.org:2300
+239 L33Test Gaming			Matthew Hansen			bbs.l33test.com
