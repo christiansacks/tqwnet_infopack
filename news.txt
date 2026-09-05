@@ -214,3 +214,4 @@ Peter London from Twilight Node				@ 1337:1/130
 RetroSwim from The Retro Swim BBS			@ 1337:2/112
 John Lin from bbs.homes					@ 1337:3/236
 Jean-Jack Riethoven from Amplicon			@ 1337:3/237
+Clive Reuben from oNyX bBs				@ 1337:3/238

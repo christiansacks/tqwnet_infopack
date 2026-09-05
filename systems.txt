@@ -184,3 +184,4 @@ NET 3 (1337:3/xxx)
 235 The Down-Lo BBS			Winzlo				bbs.winzlo.com
 236 bbs.homes				John Lin			bbs.homes
 237 Amplicon				Jean-Jack Riethoven		amplicon-bbs.org
+238 oNyX bBs				Clive Reuben			onyxbbs.mywire.org:2300
