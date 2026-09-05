@@ -183,3 +183,4 @@ NET 3 (1337:3/xxx)
 234 The SmallTime BBS			Firehawke			smalltimebbs.firehawke.net:2233
 235 The Down-Lo BBS			Winzlo				bbs.winzlo.com
 236 bbs.homes				John Lin			bbs.homes
+237 Amplicon				Jean-Jack Riethoven		amplicon-bbs.org
