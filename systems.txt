@@ -188,3 +188,4 @@ NET 3 (1337:3/xxx)
 238 oNyX bBs				Clive Reuben			onyxbbs.mywire.org:2300
 239 L33Test Gaming			Matthew Hansen			bbs.l33test.com
 240 Amplicon				Jean-Jack Riethoven		amplicon-bbs.org
+241 The Boneyard			Ryan Stubberfield		boneyard-bbs.com:8073
