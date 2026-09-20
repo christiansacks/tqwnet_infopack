@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2026-09-20
+Added	- Node 1/131 - Maiks Place BBS			(CH) - Welcome Michael Dreier :)
+
 2026-09-05
 Added	- Node 3/239 - L33Test Gaming			(US) - Welcome Matthew Hansen :)
 Added	- Node 3/238 - oNyX bBs				(US) - Welcome Clive Reuben :)
