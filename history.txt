@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2026-09-21
+Added	- Node 3/242 - The Adventure BBS		(CA) - Welcome Derek Bird :)
+
 2026-09-20
 Added	- Node 3/241 - The Boneyard			(US) - Welcome Ryan Stubberfield :)
 Added	- Node 3/240 - Amplicon				(US) - Welcome Jean-Jack Riethoven :)
