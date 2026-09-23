@@ -15,6 +15,9 @@ Christian Sacks at 1337:1/101 or email at ml@erb.pw :)
 == ChangeLog =====================================================================================
 
 >> Further history to be added as time permits <<
+2026-09-23
+Added	- Node 1/132 - Magnum BBS			(UK) - Welcome Keyop Troy :)
+
 2026-09-21
 Added	- Node 3/242 - The Adventure BBS		(CA) - Welcome Derek Bird :)
 

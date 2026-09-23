@@ -220,3 +220,4 @@ Michael Dreier from Maiks Place BBS			@ 1337:1/131
 Jean-Jack Riethoven from Amplicon			@ 1337:3/240
 Ryan Stubberfield from The Boneyard			@ 1337:3/241
 Derek Bird from The Adventure BBS			@ 1337:3/242
+Keyop Troy from Magnum BBS				@ 1337:1/132

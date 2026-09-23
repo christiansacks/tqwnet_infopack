@@ -40,6 +40,7 @@ NET 1 (1337:1/xxx)
 129 Falcon BBS				Michel van Osenbruggen		bbs.falconbbs.nl
 130 Twilight Node			Peter London			twilightnode.org
 131 Maiks Place BBS			Michael Dreier			bbs.maik.ch
+132 Magnum BBS				Keyop Troy			magnumbbs.bbs
 201 dYslExIc dOnkEy			Christian Sacks			dydo.erb.pw:1337
 202 PiMP BBS				Christian Sacks			pimpbbs.erb.pw:18023
 
