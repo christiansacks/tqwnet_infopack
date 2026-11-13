@@ -191,3 +191,5 @@ NET 3 (1337:3/xxx)
 240 Amplicon				Jean-Jack Riethoven		amplicon-bbs.org
 241 The Boneyard			Ryan Stubberfield		boneyard-bbs.com:8073
 242 The Adventure BBS			Derek Bird			https://bbs.ourbirdhouse.ca
+243 Cwshack BBS				Tom Moore			cwshack.ddns.net:2330
+244 Stellar Darkness			Mike Da Costa			stellardarkness.com:2323
